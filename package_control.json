@@ -18,13 +18,13 @@
     },
     {
       "name": "MoveText",
-      "description": "Select text and drag it around, or setup a text "tunnel" to move code from one location to another.",
+      "description": "Select text and drag it around, or setup a text \"tunnel\" to move code from one location to another.",
       "author": "Colin Thomas-Arnold (colinta)",
-      "last_modified": "2012-01-04 09:21:50",
+      "last_modified": "2012-01-04 14:23:14",
       "platforms": {
         "*": [
           {
-            "version": "1.0.1",
+            "version": "1.0.2",
             "url": "https://github.com/colinta/SublimeMoveText"
           }
         ]
@@ -34,11 +34,11 @@
       "name": "TransposeCharacter",
       "description": "Swaps two characters, lines, words, or reverse a word.  Depending on cursor location and selection(s).",
       "author": "Colin Thomas-Arnold (colinta)",
-      "last_modified": "2012-01-04 09:25:24",
+      "last_modified": "2012-01-04 14:23:46",
       "platforms": {
         "*": [
           {
-            "version": "1.0.1",
+            "version": "1.0.2",
             "url": "https://github.com/colinta/SublimeTransposeCharacter"
           }
         ]
@@ -48,11 +48,11 @@
       "name": "Bracketeer",
       "description": "Some bracket manipulation, selection, and insertion commands.",
       "author": "Colin Thomas-Arnold (colinta)",
-      "last_modified": "2012-01-04 09:05:12",
+      "last_modified": "2012-01-04 14:22:33",
       "platforms": {
         "*": [
           {
-            "version": "1.1",
+            "version": "1.1.1",
             "url": "https://github.com/colinta/SublimeBracketeer"
           }
         ]
@@ -62,11 +62,11 @@
       "name": "Quickfind",
       "description": "Works similarly to TextMate's `ctrl+s`.  But if text is already selected, it will be the default search.  Keep pressing `ctrl+s` to search for the next instance.",
       "author": "Colin Thomas-Arnold (colinta)",
-      "last_modified": "2012-01-04 09:26:29",
+      "last_modified": "2012-01-04 14:24:16",
       "platforms": {
         "*": [
           {
-            "version": "1.1",
+            "version": "1.1.1",
             "url": "https://github.com/colinta/SublimeQuickfind"
           }
         ]
@@ -88,7 +88,7 @@
     },
     {
       "name": "StringEncode",
-      "description": "Converts characters from one "encoding" to another using a transformation (think HTML entities, not character encodings).",
+      "description": "Converts characters from one \"encoding\" to another using a transformation (think HTML entities, not character encodings).",
       "author": "Colin Thomas-Arnold (colinta)",
       "last_modified": "2012-01-04 09:27:18",
       "platforms": {
@@ -110,6 +110,20 @@
           {
             "version": "1.0.1",
             "url": "https://github.com/colinta/SublimeFileDiffs"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MarkAndMove",
+      "description": "Allows for keyboard-only multiple selections.  Select some stuff, mark it, then move the cursor around and add more marks, recall marks, or move between marks.",
+      "author": "Colin Thomas-Arnold (colinta)",
+      "last_modified": "2012-01-04 14:27:04",
+      "platforms": {
+        "windows": [
+          {
+            "version": "1.0",
+            "url": "https://github.com/colinta/SublimeMarkAndMove"
           }
         ]
       }
