@@ -6,11 +6,11 @@
       "description": "Zenburn color scheme.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "http://echonull.colinta.com/null/you-probably-googled-zenburn-textmate/",
-      "last_modified": "2012-01-03 13:57:03",
+      "last_modified": "2012-01-04 09:25:00",
       "platforms": {
         "*": [
           {
-            "version": "1.0",
+            "version": "1.0.1",
             "url": "https://github.com/colinta/zenburn"
           }
         ]
@@ -20,11 +20,11 @@
       "name": "MoveText",
       "description": "Select text and drag it around, or setup a text "tunnel" to move code from one location to another.",
       "author": "Colin Thomas-Arnold (colinta)",
-      "last_modified": "2012-01-03 13:57:03",
+      "last_modified": "2012-01-04 09:21:50",
       "platforms": {
         "*": [
           {
-            "version": "1.0",
+            "version": "1.0.1",
             "url": "https://github.com/colinta/SublimeMoveText"
           }
         ]
@@ -34,11 +34,11 @@
       "name": "TransposeCharacter",
       "description": "Swaps two characters, lines, words, or reverse a word.  Depending on cursor location and selection(s).",
       "author": "Colin Thomas-Arnold (colinta)",
-      "last_modified": "2012-01-03 13:57:03",
+      "last_modified": "2012-01-04 09:25:24",
       "platforms": {
         "*": [
           {
-            "version": "1.0",
+            "version": "1.0.1",
             "url": "https://github.com/colinta/SublimeTransposeCharacter"
           }
         ]
@@ -62,11 +62,11 @@
       "name": "Quickfind",
       "description": "Works similarly to TextMate's `ctrl+s`.  But if text is already selected, it will be the default search.  Keep pressing `ctrl+s` to search for the next instance.",
       "author": "Colin Thomas-Arnold (colinta)",
-      "last_modified": "2012-01-03 13:57:03",
+      "last_modified": "2012-01-04 09:26:29",
       "platforms": {
         "*": [
           {
-            "version": "1.0",
+            "version": "1.1",
             "url": "https://github.com/colinta/SublimeQuickfind"
           }
         ]
@@ -76,11 +76,11 @@
       "name": "SimpleMovements",
       "description": "Adds caret moving and newline entering commands.",
       "author": "Colin Thomas-Arnold (colinta)",
-      "last_modified": "2012-01-03 13:57:03",
+      "last_modified": "2012-01-04 09:26:57",
       "platforms": {
         "*": [
           {
-            "version": "1.0",
+            "version": "1.0.1",
             "url": "https://github.com/colinta/SublimeSimpleMovements"
           }
         ]
@@ -90,11 +90,11 @@
       "name": "StringEncode",
       "description": "Converts characters from one "encoding" to another using a transformation (think HTML entities, not character encodings).",
       "author": "Colin Thomas-Arnold (colinta)",
-      "last_modified": "2012-01-03 13:57:03",
+      "last_modified": "2012-01-04 09:27:18",
       "platforms": {
         "windows": [
           {
-            "version": "1.0",
+            "version": "1.0.1",
             "url": "https://github.com/colinta/SublimeStringEncode"
           }
         ]
@@ -104,11 +104,11 @@
       "name": "FileDiffs",
       "description": "Show diffs between the current file, or selection(s) in the current file, and clipboard, another file, or unsaved changes.",
       "author": "Colin Thomas-Arnold (colinta)",
-      "last_modified": "2012-01-03 13:57:03",
+      "last_modified": "2012-01-04 09:27:46",
       "platforms": {
         "windows": [
           {
-            "version": "1.0",
+            "version": "1.0.1",
             "url": "https://github.com/colinta/SublimeFileDiffs"
           }
         ]
