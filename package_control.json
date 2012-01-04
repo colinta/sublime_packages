@@ -17,7 +17,7 @@
       }
     },
     {
-      "name": "SublimeMoveText",
+      "name": "MoveText",
       "description": "Select text and drag it around, or setup a text "tunnel" to move code from one location to another.",
       "author": "Colin Thomas-Arnold (colinta)",
       "last_modified": "2012-01-03 13:57:03",
@@ -31,7 +31,7 @@
       }
     },
     {
-      "name": "SublimeTransposeCharacter",
+      "name": "TransposeCharacter",
       "description": "Swaps two characters, lines, words, or reverse a word.  Depending on cursor location and selection(s).",
       "author": "Colin Thomas-Arnold (colinta)",
       "last_modified": "2012-01-03 13:57:03",
@@ -45,7 +45,7 @@
       }
     },
     {
-      "name": "SublimeBracketeer",
+      "name": "Bracketeer",
       "description": "Some bracket manipulation, selection, and insertion commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "last_modified": "2012-01-04 09:05:12",
@@ -59,7 +59,7 @@
       }
     },
     {
-      "name": "SublimeQuickfind",
+      "name": "Quickfind",
       "description": "Works similarly to TextMate's `ctrl+s`.  But if text is already selected, it will be the default search.  Keep pressing `ctrl+s` to search for the next instance.",
       "author": "Colin Thomas-Arnold (colinta)",
       "last_modified": "2012-01-03 13:57:03",
@@ -73,7 +73,7 @@
       }
     },
     {
-      "name": "SublimeSimpleMovements",
+      "name": "SimpleMovements",
       "description": "Adds caret moving and newline entering commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "last_modified": "2012-01-03 13:57:03",
@@ -87,7 +87,7 @@
       }
     },
     {
-      "name": "SublimeStringEncode",
+      "name": "StringEncode",
       "description": "Converts characters from one "encoding" to another using a transformation (think HTML entities, not character encodings).",
       "author": "Colin Thomas-Arnold (colinta)",
       "last_modified": "2012-01-03 13:57:03",
@@ -101,7 +101,7 @@
       }
     },
     {
-      "name": "SublimeFileDiffs",
+      "name": "FileDiffs",
       "description": "Show diffs between the current file, or selection(s) in the current file, and clipboard, another file, or unsaved changes.",
       "author": "Colin Thomas-Arnold (colinta)",
       "last_modified": "2012-01-03 13:57:03",
