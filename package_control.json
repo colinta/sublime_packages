@@ -11,7 +11,7 @@
         "*": [
           {
             "version": "1.0.1",
-            "url": "https://github.com/colinta/zenburn"
+            "url": "https://nodeload.github.com/colinta/zenburn/zipball/v1.0.1"
           }
         ]
       }
@@ -25,7 +25,7 @@
         "*": [
           {
             "version": "1.0.2",
-            "url": "https://github.com/colinta/SublimeMoveText"
+            "url": "https://nodeload.github.com/colinta/SublimeMoveText/zipball/v1.0.2"
           }
         ]
       }
@@ -39,7 +39,7 @@
         "*": [
           {
             "version": "1.0.2",
-            "url": "https://github.com/colinta/SublimeTransposeCharacter"
+            "url": "https://nodeload.github.com/colinta/SublimeTransposeCharacter/zipball/v1.0.2"
           }
         ]
       }
@@ -53,7 +53,7 @@
         "*": [
           {
             "version": "1.1.1",
-            "url": "https://github.com/colinta/SublimeBracketeer"
+            "url": "https://nodeload.github.com/colinta/SublimeBracketeer/zipball/v1.1.1"
           }
         ]
       }
@@ -67,7 +67,7 @@
         "*": [
           {
             "version": "1.1.1",
-            "url": "https://github.com/colinta/SublimeQuickfind"
+            "url": "https://nodeload.github.com/colinta/SublimeQuickfind/zipball/v1.1.1"
           }
         ]
       }
@@ -80,8 +80,8 @@
       "platforms": {
         "*": [
           {
-            "version": "1.0.1",
-            "url": "https://github.com/colinta/SublimeSimpleMovements"
+            "version": "1.0.2",
+            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.0.2"
           }
         ]
       }
@@ -95,7 +95,7 @@
         "windows": [
           {
             "version": "1.0.1",
-            "url": "https://github.com/colinta/SublimeStringEncode"
+            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zipball/v1.0.1"
           }
         ]
       }
@@ -109,7 +109,7 @@
         "windows": [
           {
             "version": "1.0.1",
-            "url": "https://github.com/colinta/SublimeFileDiffs"
+            "url": "https://nodeload.github.com/colinta/SublimeFileDiffs/zipball/v1.0.1"
           }
         ]
       }
@@ -122,8 +122,8 @@
       "platforms": {
         "windows": [
           {
-            "version": "1.0",
-            "url": "https://github.com/colinta/SublimeMarkAndMove"
+            "version": "1.0.1",
+            "url": "https://nodeload.github.com/colinta/SublimeMarkAndMove/zipball/v1.0"
           }
         ]
       }
