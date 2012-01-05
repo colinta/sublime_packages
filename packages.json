@@ -1,5 +1,11 @@
 {
   "schema_version": "1.1",
+  "renamed_packages": {
+    "SublimeMoveText": "MoveText",
+    "SublimeTransposeCharacter": "TransposeCharacter",
+    "SublimeBracketeer" : "Bracketeer",
+    "SublimeQuickfind": "Quickfind"
+  },
   "packages": [
     {
       "name": "zenburn",
@@ -92,7 +98,7 @@
       "author": "Colin Thomas-Arnold (colinta)",
       "last_modified": "2012-01-04 09:27:18",
       "platforms": {
-        "windows": [
+        "*": [
           {
             "version": "1.0.1",
             "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zipball/v1.0.1"
@@ -106,7 +112,7 @@
       "author": "Colin Thomas-Arnold (colinta)",
       "last_modified": "2012-01-04 09:27:46",
       "platforms": {
-        "windows": [
+        "*": [
           {
             "version": "1.0.1",
             "url": "https://nodeload.github.com/colinta/SublimeFileDiffs/zipball/v1.0.1"
@@ -120,7 +126,7 @@
       "author": "Colin Thomas-Arnold (colinta)",
       "last_modified": "2012-01-04 14:27:04",
       "platforms": {
-        "windows": [
+        "*": [
           {
             "version": "1.0.1",
             "url": "https://nodeload.github.com/colinta/SublimeMarkAndMove/zipball/v1.0"
