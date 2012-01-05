@@ -18,7 +18,7 @@
     },
     {
       "name": "MoveText",
-      "description": "Select text and drag it around, or setup a text \"tunnel\" to move code from one location to another.",
+      "description": "Select text and drag it around, or setup a text tunnel to move code from one location to another.",
       "author": "Colin Thomas-Arnold (colinta)",
       "last_modified": "2012-01-04 14:23:14",
       "platforms": {
@@ -60,7 +60,7 @@
     },
     {
       "name": "Quickfind",
-      "description": "Works similarly to TextMate's 'ctrl+s'.  But if text is already selected, it will be the default search.  Keep pressing 'ctrl+s' to search for the next instance.",
+      "description": "Works similarly to TextMate's ctrl+s.  But if text is already selected, it will be the default search.  Keep pressing ctrl+s to search for the next instance.",
       "author": "Colin Thomas-Arnold (colinta)",
       "last_modified": "2012-01-05 10:01:10",
       "platforms": {
@@ -88,7 +88,7 @@
     },
     {
       "name": "StringEncode",
-      "description": "Converts characters from one \"encoding\" to another using a transformation (think HTML entities, not character encodings).",
+      "description": "Converts characters from one encoding to another using a transformation (think HTML entities, not character encodings).",
       "author": "Colin Thomas-Arnold (colinta)",
       "last_modified": "2012-01-04 09:27:18",
       "platforms": {
