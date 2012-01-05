@@ -62,12 +62,12 @@
       "name": "Quickfind",
       "description": "Works similarly to TextMate's 'ctrl+s'.  But if text is already selected, it will be the default search.  Keep pressing 'ctrl+s' to search for the next instance.",
       "author": "Colin Thomas-Arnold (colinta)",
-      "last_modified": "2012-01-04 14:24:16",
+      "last_modified": "2012-01-05 10:01:10",
       "platforms": {
         "*": [
           {
-            "version": "1.1.1",
-            "url": "https://nodeload.github.com/colinta/SublimeQuickfind/zipball/v1.1.1"
+            "version": "1.1.2",
+            "url": "https://nodeload.github.com/colinta/SublimeQuickfind/zipball/v1.1.2"
           }
         ]
       }
