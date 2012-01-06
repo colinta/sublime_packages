@@ -20,6 +20,7 @@
       "name": "MoveText",
       "description": "Select text and drag it around, or setup a text tunnel to move code from one location to another.",
       "author": "Colin Thomas-Arnold (colinta)",
+      "homepage": "https://github.com/colinta/SublimeMoveText",
       "last_modified": "2012-01-04 14:23:14",
       "platforms": {
         "*": [
@@ -34,6 +35,7 @@
       "name": "TransposeCharacter",
       "description": "Swaps two characters, lines, words, or reverse a word.  Depending on cursor location and selection(s).",
       "author": "Colin Thomas-Arnold (colinta)",
+      "homepage": "https://github.com/colinta/SublimeTransposeCharacter",
       "last_modified": "2012-01-04 14:23:46",
       "platforms": {
         "*": [
@@ -48,6 +50,7 @@
       "name": "Bracketeer",
       "description": "Some bracket manipulation, selection, and insertion commands.",
       "author": "Colin Thomas-Arnold (colinta)",
+      "homepage": "https://github.com/colinta/SublimeBracketeer",
       "last_modified": "2012-01-04 14:22:33",
       "platforms": {
         "*": [
@@ -62,6 +65,7 @@
       "name": "Quickfind",
       "description": "Works similarly to TextMate's ctrl+s.  But if text is already selected, it will be the default search.  Keep pressing ctrl+s to search for the next instance.",
       "author": "Colin Thomas-Arnold (colinta)",
+      "homepage": "https://github.com/colinta/SublimeQuickfind",
       "last_modified": "2012-01-05 10:01:10",
       "platforms": {
         "*": [
@@ -76,6 +80,7 @@
       "name": "SimpleMovements",
       "description": "Adds caret moving and newline entering commands.",
       "author": "Colin Thomas-Arnold (colinta)",
+      "homepage": "https://github.com/colinta/SublimeSimpleMovements",
       "last_modified": "2012-01-04 09:26:57",
       "platforms": {
         "*": [
@@ -90,6 +95,7 @@
       "name": "StringEncode",
       "description": "Converts characters from one encoding to another using a transformation (think HTML entities, not character encodings).",
       "author": "Colin Thomas-Arnold (colinta)",
+      "homepage": "https://github.com/colinta/SublimeStringEncode",
       "last_modified": "2012-01-04 09:27:18",
       "platforms": {
         "*": [
@@ -104,6 +110,7 @@
       "name": "FileDiffs",
       "description": "Show diffs between the current file, or selection(s) in the current file, and clipboard, another file, or unsaved changes.",
       "author": "Colin Thomas-Arnold (colinta)",
+      "homepage": "https://github.com/colinta/SublimeFileDiffs",
       "last_modified": "2012-01-04 09:27:46",
       "platforms": {
         "*": [
@@ -118,6 +125,7 @@
       "name": "MarkAndMove",
       "description": "Allows for keyboard-only multiple selections.  Select some stuff, mark it, then move the cursor around and add more marks, recall marks, or move between marks.",
       "author": "Colin Thomas-Arnold (colinta)",
+      "homepage": "https://github.com/colinta/SublimeMarkAndMove",
       "last_modified": "2012-01-04 14:27:04",
       "platforms": {
         "*": [
