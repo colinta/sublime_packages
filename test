@@ -1,0 +1,14 @@
+#!/usr/local/bin/bash
+
+files=`cat packages.json  | grep '"url"' | sed -E 's/^ +"url": "(.*)"$/\1/'`
+
+for url in $files
+do
+	echo -n "$url..."
+  ok=`headers $url | head -n 1 | grep 'HTTP.*4'`
+  if [[ -z "$ok" ]]; then
+    echo -e "\033[32mOK\033[0m"
+  else
+    echo -e "\033[31;1mFAIL\033[0m"
+  fi
+done
