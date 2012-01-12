@@ -25,8 +25,8 @@
       "platforms": {
         "*": [
           {
-            "version": "1.0.3",
-            "url": "https://nodeload.github.com/colinta/SublimeMoveText/zipball/v1.0.3"
+            "version": "1.0.4",
+            "url": "https://nodeload.github.com/colinta/SublimeMoveText/zipball/v1.0.4"
           }
         ]
       }
@@ -40,8 +40,8 @@
       "platforms": {
         "*": [
           {
-            "version": "1.1.0",
-            "url": "https://nodeload.github.com/colinta/SublimeTransposeCharacter/zipball/v1.1.0"
+            "version": "1.1.1",
+            "url": "https://nodeload.github.com/colinta/SublimeTransposeCharacter/zipball/v1.1.1"
           }
         ]
       }
@@ -55,8 +55,8 @@
       "platforms": {
         "*": [
           {
-            "version": "1.2.0",
-            "url": "https://nodeload.github.com/colinta/SublimeBracketeer/zipball/v1.2.0"
+            "version": "1.2.1",
+            "url": "https://nodeload.github.com/colinta/SublimeBracketeer/zipball/v1.2.1"
           }
         ]
       }
@@ -100,8 +100,8 @@
       "platforms": {
         "*": [
           {
-            "version": "1.0.2",
-            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zipball/v1.0.2"
+            "version": "1.0.3",
+            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zipball/v1.0.3"
           }
         ]
       }
