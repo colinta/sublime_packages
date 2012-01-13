@@ -100,8 +100,8 @@
       "platforms": {
         "*": [
           {
-            "version": "1.0.3",
-            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zipball/v1.0.3"
+            "version": "1.0.4",
+            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zipball/v1.0.4"
           }
         ]
       }
