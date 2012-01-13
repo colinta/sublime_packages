@@ -153,14 +153,14 @@
     },
     {
       "name": "ApacheConf.tmLanguage",
-      "description": "A port of the TextMate bundle.  By GreyWyvern and radiosilence.  <http://www.sublimetext.com/forum/viewtopic.php?f=5&t=856>.",
+      "description": "For htaccess and .conf files.  By GreyWyvern, with assist by radiosilence.  <http://www.sublimetext.com/forum/viewtopic.php?f=5&t=856>.",
       "author": "GreyWyvern and radiosilence",
       "homepage": "https://github.com/colinta/ApacheConf.tmLanguage",
       "last_modified": "2012-01-13 02:37:45",
       "platforms": {
         "*": [
           {
-            "version": "1.0.0",
+            "version": "1.0.1",
             "url": "https://nodeload.github.com/colinta/ApacheConf.tmLanguage/zipball/v1.0.1"
           }
         ]
