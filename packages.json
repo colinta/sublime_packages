@@ -33,7 +33,7 @@
     },
     {
       "name": "TransposeCharacter",
-      "description": "Swaps two characters, lines, words, or reverse a word.  Depending on cursor location and selection(s).",
+      "description": "Swaps two characters, lines, words, or reverses a selection.  Depending on cursor location and selection(s).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeTransposeCharacter",
       "last_modified": "2012-01-04 14:23:46",
