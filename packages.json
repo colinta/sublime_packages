@@ -55,8 +55,8 @@
       "platforms": {
         "*": [
           {
-            "version": "1.2.2",
-            "url": "https://nodeload.github.com/colinta/SublimeBracketeer/zipball/v1.2.2"
+            "version": "1.2.3",
+            "url": "https://nodeload.github.com/colinta/SublimeBracketeer/zipball/v1.2.3"
           }
         ]
       }
@@ -85,8 +85,8 @@
       "platforms": {
         "*": [
           {
-            "version": "1.1.0",
-            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.1.0"
+            "version": "1.2.0",
+            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.2.0"
           }
         ]
       }
@@ -130,8 +130,8 @@
       "platforms": {
         "*": [
           {
-            "version": "1.0.3",
-            "url": "https://nodeload.github.com/colinta/SublimeMarkAndMove/zipball/v1.0.3"
+            "version": "1.0.4",
+            "url": "https://nodeload.github.com/colinta/SublimeMarkAndMove/zipball/v1.0.4"
           }
         ]
       }
