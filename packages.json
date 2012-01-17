@@ -70,8 +70,8 @@
       "platforms": {
         "*": [
           {
-            "version": "1.2.0",
-            "url": "https://nodeload.github.com/colinta/SublimeQuickfind/zipball/v1.2.0"
+            "version": "1.3.0",
+            "url": "https://nodeload.github.com/colinta/SublimeQuickfind/zipball/v1.3.0"
           }
         ]
       }
@@ -85,8 +85,8 @@
       "platforms": {
         "*": [
           {
-            "version": "1.2.0",
-            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.2.0"
+            "version": "1.2.1",
+            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.2.1"
           }
         ]
       }
