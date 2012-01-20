@@ -85,8 +85,8 @@
       "platforms": {
         "*": [
           {
-            "version": "1.2.2",
-            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.2.2"
+            "version": "1.2.3",
+            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.2.3"
           }
         ]
       }
