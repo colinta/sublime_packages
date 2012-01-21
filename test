@@ -1,7 +1,13 @@
 #!/usr/local/bin/bash
 
-files=`cat packages.json  | grep '"url"' | sed -E 's/^ +"url": "(.*)"$/\1/'`
+if [[ "$0" != "./test" ]]; then
+  echo -e "\033[32mRight:\033[0m ./test"
+  echo -e "\033[31mWrong:\033[0m source test"
+  return 1
+fi
 
+files=`cat packages.json  | grep '"url"' | sed -E 's/^ +"url": "(.*)"$/\1/'`
+ret=0
 for url in $files
 do
 	echo -n "$url..."
@@ -10,5 +16,8 @@ do
     echo -e "\033[32mOK\033[0m"
   else
     echo -e "\033[31;1mFAIL\033[0m"
+    ret=1
   fi
 done
+
+exit $ret
