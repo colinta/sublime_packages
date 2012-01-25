@@ -115,8 +115,8 @@
       "platforms": {
         "*": [
           {
-            "version": "1.2.4",
-            "url": "https://nodeload.github.com/colinta/SublimeFileDiffs/zipball/v1.2.4"
+            "version": "1.2.5",
+            "url": "https://nodeload.github.com/colinta/SublimeFileDiffs/zipball/v1.2.5"
           }
         ]
       }
@@ -183,7 +183,7 @@
     },
     {
       "name": "Calculate",
-      "description": "Calculations using python.",
+      "description": "Calculations using python.  Also provides some number-related functions, like counting (across multiple selections).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeCalculate",
       "last_modified": "2012-01-19 01:01:41",
