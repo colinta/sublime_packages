@@ -115,8 +115,8 @@
       "platforms": {
         "*": [
           {
-            "version": "1.2.5",
-            "url": "https://nodeload.github.com/colinta/SublimeFileDiffs/zipball/v1.2.5"
+            "version": "1.2.6",
+            "url": "https://nodeload.github.com/colinta/SublimeFileDiffs/zipball/v1.2.6"
           }
         ]
       }
