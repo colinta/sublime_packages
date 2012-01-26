@@ -195,21 +195,6 @@
           }
         ]
       }
-    },
-    {
-      "name": "OpenAllMatches",
-      "description": "Prompts for a search pattern, and opens all files in the current project that match that search.",
-      "author": "Colin Thomas-Arnold (colinta)",
-      "homepage": "https://github.com/colinta/SublimeOpenAllMatches",
-      "last_modified": "2012-01-25 04:01:56",
-      "platforms": {
-        "*": [
-          {
-            "version": "1.0.0",
-            "url": "https://nodeload.github.com/colinta/SublimeOpenAllMatches/zipball/v1.0.0"
-          }
-        ]
-      }
     }
   ]
 }
