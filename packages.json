@@ -21,7 +21,7 @@
       "description": "Select text and drag it around, or setup a text tunnel to move code from one location to another.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeMoveText",
-      "last_modified": "2012-01-04 14:23:14",
+      "last_modified": "2012-01-24 16:58:50",
       "platforms": {
         "*": [
           {
@@ -36,7 +36,7 @@
       "description": "Swaps two characters, lines, words, or reverses a selection.  Depending on cursor location and selection(s).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeTransposeCharacter",
-      "last_modified": "2012-01-04 14:23:46",
+      "last_modified": "2012-01-24 16:59:23",
       "platforms": {
         "*": [
           {
@@ -51,7 +51,7 @@
       "description": "Some bracket manipulation, selection, and insertion commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeBracketeer",
-      "last_modified": "2012-01-04 14:22:33",
+      "last_modified": "2012-01-24 17:36:25",
       "platforms": {
         "*": [
           {
@@ -66,7 +66,7 @@
       "description": "Works similarly to TextMate's ctrl+s.  But if text is already selected, it will be the default search.  Keep pressing ctrl+s to search for the next instance.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeQuickfind",
-      "last_modified": "2012-01-05 10:01:10",
+      "last_modified": "2012-01-24 17:25:08",
       "platforms": {
         "*": [
           {
@@ -81,12 +81,12 @@
       "description": "Adds caret moving and newline entering commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeSimpleMovements",
-      "last_modified": "2012-01-19 01:01:30",
+      "last_modified": "2012-01-25 11:29:35",
       "platforms": {
         "*": [
           {
-            "version": "1.2.7",
-            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.2.7"
+            "version": "1.2.8",
+            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.2.8"
           }
         ]
       }
@@ -96,7 +96,7 @@
       "description": "Converts characters from one encoding to another using a transformation (think HTML entities, not character encodings).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeStringEncode",
-      "last_modified": "2012-01-04 09:27:18",
+      "last_modified": "2012-01-24 17:43:31",
       "platforms": {
         "*": [
           {
@@ -111,7 +111,7 @@
       "description": "Show diffs between the current file, or selection(s) in the current file, and clipboard, another file, or unsaved changes.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeFileDiffs",
-      "last_modified": "2012-01-04 09:27:46",
+      "last_modified": "2012-01-26 08:03:30",
       "platforms": {
         "*": [
           {
@@ -126,7 +126,7 @@
       "description": "Allows for keyboard-only multiple selections.  Select some stuff, mark it, then move the cursor around and add more marks, recall marks, or move between marks.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeMarkAndMove",
-      "last_modified": "2012-01-06 05:18:05",
+      "last_modified": "2012-01-24 17:00:47",
       "platforms": {
         "*": [
           {
@@ -141,7 +141,7 @@
       "description": "Converts single to double or double to single quotes.  Attempts to preserve correct escaping, though this could be improved I'm sure.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeChangeQuotes",
-      "last_modified": "2012-01-14 11:04:38",
+      "last_modified": "2012-01-24 17:01:17",
       "platforms": {
         "*": [
           {
@@ -156,12 +156,12 @@
       "description": "A version of the Sublime Text 2 plugin at <http://www.sublimetext.com/forum/viewtopic.php?f=5&t=2260&start=0> that makes for TextMate-like clipboard history.",
       "author": "AJ Palkovic (ajpalkovic), Martin Aspeli (optilude) and Colin Thomas-Arnold (colinta)",
       "homepage": "https://gist.github.com/1590661",
-      "last_modified": "2012-01-10 02:55:00",
+      "last_modified": "2012-01-24 17:50:39",
       "platforms": {
         "*": [
           {
-            "version": "1.0.3",
-            "url": "https://nodeload.github.com/colinta/SublimeClipboardManager/zipball/v1.0.3"
+            "version": "1.0.4",
+            "url": "https://nodeload.github.com/colinta/SublimeClipboardManager/zipball/v1.0.4"
           }
         ]
       }
@@ -186,12 +186,12 @@
       "description": "Calculations using python.  Also provides some number-related functions, like counting (across multiple selections).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeCalculate",
-      "last_modified": "2012-01-19 01:01:41",
+      "last_modified": "2012-01-26 08:10:45",
       "platforms": {
         "*": [
           {
-            "version": "1.0.0",
-            "url": "https://nodeload.github.com/colinta/SublimeCalculate/zipball/v1.0.0"
+            "version": "1.0.1",
+            "url": "https://nodeload.github.com/colinta/SublimeCalculate/zipball/v1.0.1"
           }
         ]
       }
