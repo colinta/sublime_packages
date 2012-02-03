@@ -51,12 +51,12 @@
       "description": "Some bracket manipulation, selection, and insertion commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeBracketeer",
-      "last_modified": "2012-01-30 16:45:35",
+      "last_modified": "2012-02-03 16:08:49",
       "platforms": {
         "*": [
           {
-            "version": "1.2.6",
-            "url": "https://nodeload.github.com/colinta/SublimeBracketeer/zipball/v1.2.6"
+            "version": "1.2.7",
+            "url": "https://nodeload.github.com/colinta/SublimeBracketeer/zipball/v1.2.7"
           }
         ]
       }
