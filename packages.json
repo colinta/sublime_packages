@@ -111,12 +111,12 @@
       "description": "Show diffs between the current file, or selection(s) in the current file, and clipboard, another file, or unsaved changes.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeFileDiffs",
-      "last_modified": "2012-02-06 11:55:21",
+      "last_modified": "2012-02-06 17:09:25",
       "platforms": {
         "*": [
           {
-            "version": "1.2.7",
-            "url": "https://nodeload.github.com/colinta/SublimeFileDiffs/zipball/v1.2.7"
+            "version": "1.2.8",
+            "url": "https://nodeload.github.com/colinta/SublimeFileDiffs/zipball/v1.2.8"
           }
         ]
       }
