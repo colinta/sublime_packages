@@ -36,12 +36,12 @@
       "description": "Swaps two characters, lines, words, or reverses a selection.  Depending on cursor location and selection(s).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeTransposeCharacter",
-      "last_modified": "2012-01-24 16:59:23",
+      "last_modified": "2012-02-13 16:47:13",
       "platforms": {
         "*": [
           {
-            "version": "1.2.2",
-            "url": "https://nodeload.github.com/colinta/SublimeTransposeCharacter/zipball/v1.2.2"
+            "version": "2.0.0",
+            "url": "https://nodeload.github.com/colinta/SublimeTransposeCharacter/zipball/v2.0.0"
           }
         ]
       }
@@ -51,12 +51,12 @@
       "description": "Some bracket manipulation, selection, and insertion commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeBracketeer",
-      "last_modified": "2012-02-08 11:55:01",
+      "last_modified": "2012-02-13 16:48:26",
       "platforms": {
         "*": [
           {
-            "version": "1.2.8",
-            "url": "https://nodeload.github.com/colinta/SublimeBracketeer/zipball/v1.2.8"
+            "version": "1.2.9",
+            "url": "https://nodeload.github.com/colinta/SublimeBracketeer/zipball/v1.2.9"
           }
         ]
       }
@@ -81,12 +81,12 @@
       "description": "Adds caret moving and newline entering commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeSimpleMovements",
-      "last_modified": "2012-02-06 11:53:59",
+      "last_modified": "2012-02-13 16:49:53",
       "platforms": {
         "*": [
           {
-            "version": "1.3.0",
-            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.3.0"
+            "version": "1.4.0",
+            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.4.0"
           }
         ]
       }
@@ -156,12 +156,12 @@
       "description": "A version of the Sublime Text 2 plugin at <http://www.sublimetext.com/forum/viewtopic.php?f=5&t=2260&start=0> that makes for TextMate-like clipboard history.",
       "author": "AJ Palkovic (ajpalkovic), Martin Aspeli (optilude) and Colin Thomas-Arnold (colinta)",
       "homepage": "https://gist.github.com/1590661",
-      "last_modified": "2012-01-24 17:50:39",
+      "last_modified": "2012-02-13 16:50:36",
       "platforms": {
         "*": [
           {
-            "version": "1.0.4",
-            "url": "https://nodeload.github.com/colinta/SublimeClipboardManager/zipball/v1.0.4"
+            "version": "1.0.5",
+            "url": "https://nodeload.github.com/colinta/SublimeClipboardManager/zipball/v1.0.5"
           }
         ]
       }
