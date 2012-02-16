@@ -17,7 +17,6 @@ PACKAGEJSON
   fi
 
   cd "$root/$folder"
-  echo ">>> $folder <<<" 1>&2
 
   latest_tag=$(g tag | tail -n 1)
   latest_version=${latest_tag:1}
@@ -31,6 +30,7 @@ PACKAGEJSON
   homepage=$(json "$package_json" 'homepage')
   repo=$(json "$package_json" 'repo')
 
+  echo ">>> $folder $latest_tag @ $tag_date" 1>&2
   out=$(cat <<PACKAGEJSON
 $out
     {
@@ -59,4 +59,9 @@ $out
 PACKAGEJSON
 )
 
-echo "$out"
+if [[ -t 1 ]]; then
+  echo "$out" > packages.json
+else
+  echo "$out"
+fi
+
