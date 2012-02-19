@@ -195,6 +195,21 @@
           }
         ]
       }
+    },
+    {
+      "name": "SetSyntax",
+      "description": "Some generic keyboard bindings for 'Set Syntax:'",
+      "author": "Colin Thomas-Arnold (colinta)",
+      "homepage": "https://github.com/colinta/SublimeSetSyntax",
+      "last_modified": "2012-02-19 08:19:33",
+      "platforms": {
+        "*": [
+          {
+            "version": "1.0.1",
+            "url": "https://nodeload.github.com/colinta/SublimeSetSyntax/zipball/v1.0.1"
+          }
+        ]
+      }
     }
   ]
 }
