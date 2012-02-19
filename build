@@ -16,7 +16,7 @@ PACKAGEJSON
     out="$out,"
   fi
 
-  cd "$root/$folder"
+  pushd "$root/$folder" > /dev/null
 
   latest_tag=$(g tag | tail -n 1)
   latest_version=${latest_tag:1}
@@ -50,6 +50,7 @@ $out
     }
 PACKAGEJSON
 )
+  popd > /dev/null
 done
 
 out=$(cat <<PACKAGEJSON
