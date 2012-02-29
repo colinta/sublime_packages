@@ -36,12 +36,12 @@
       "description": "Swaps two characters, lines, words, or reverses a selection.  Depending on cursor location and selection(s).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeTransposeCharacter",
-      "last_modified": "2012-02-13 16:47:13",
+      "last_modified": "2012-02-24 13:46:57",
       "platforms": {
         "*": [
           {
-            "version": "2.0.0",
-            "url": "https://nodeload.github.com/colinta/SublimeTransposeCharacter/zipball/v2.0.0"
+            "version": "2.1.1",
+            "url": "https://nodeload.github.com/colinta/SublimeTransposeCharacter/zipball/v2.1.1"
           }
         ]
       }
@@ -81,12 +81,12 @@
       "description": "Adds caret moving and newline entering commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeSimpleMovements",
-      "last_modified": "2012-02-19 06:11:12",
+      "last_modified": "2012-02-29 12:16:53",
       "platforms": {
         "*": [
           {
-            "version": "1.4.3",
-            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.4.3"
+            "version": "1.4.4",
+            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.4.4"
           }
         ]
       }
@@ -96,12 +96,12 @@
       "description": "Converts characters from one encoding to another using a transformation (think HTML entities, not character encodings).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeStringEncode",
-      "last_modified": "2012-01-24 17:43:31",
+      "last_modified": "2012-02-29 12:21:23",
       "platforms": {
         "*": [
           {
-            "version": "1.0.5",
-            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zipball/v1.0.5"
+            "version": "1.0.6",
+            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zipball/v1.0.6"
           }
         ]
       }
@@ -111,12 +111,12 @@
       "description": "Show diffs between the current file, or selection(s) in the current file, and clipboard, another file, or unsaved changes.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeFileDiffs",
-      "last_modified": "2012-02-06 17:09:25",
+      "last_modified": "2012-02-29 12:18:04",
       "platforms": {
         "*": [
           {
-            "version": "1.2.8",
-            "url": "https://nodeload.github.com/colinta/SublimeFileDiffs/zipball/v1.2.8"
+            "version": "1.2.9",
+            "url": "https://nodeload.github.com/colinta/SublimeFileDiffs/zipball/v1.2.9"
           }
         ]
       }
