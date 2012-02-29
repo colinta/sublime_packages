@@ -210,6 +210,21 @@
           }
         ]
       }
+    },
+    {
+      "name": "DuplicateSelections",
+      "description": "If you have an equal number of empty selections (cursors) and selections, this command will place each selection at the corresponding cursor location.",
+      "author": "Colin Thomas-Arnold (colinta)",
+      "homepage": "https://github.com/colinta/SublimeDuplicateSelections",
+      "last_modified": "2012-02-29 12:20:02",
+      "platforms": {
+        "*": [
+          {
+            "version": "1.1.0",
+            "url": "https://nodeload.github.com/colinta/SublimeDuplicateSelections/zipball/v1.1.0"
+          }
+        ]
+      }
     }
   ]
 }
