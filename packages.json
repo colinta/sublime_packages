@@ -66,12 +66,12 @@
       "description": "Works similarly to TextMate's ctrl+s.  But if text is already selected, it will be the default search.  Keep pressing ctrl+s to search for the next instance.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeQuickfind",
-      "last_modified": "2012-03-02 15:15:17",
+      "last_modified": "2012-03-06 14:59:03",
       "platforms": {
         "*": [
           {
-            "version": "1.4.0",
-            "url": "https://nodeload.github.com/colinta/SublimeQuickfind/zipball/v1.4.0"
+            "version": "1.4.1",
+            "url": "https://nodeload.github.com/colinta/SublimeQuickfind/zipball/v1.4.1"
           }
         ]
       }
@@ -81,12 +81,12 @@
       "description": "Adds caret moving and newline entering commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeSimpleMovements",
-      "last_modified": "2012-02-29 12:16:53",
+      "last_modified": "2012-03-06 15:00:23",
       "platforms": {
         "*": [
           {
-            "version": "1.4.4",
-            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.4.4"
+            "version": "1.4.5",
+            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.4.5"
           }
         ]
       }
@@ -216,12 +216,12 @@
       "description": "If you have an equal number of empty selections (cursors) and selections, this command will place each selection at the corresponding cursor location.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeDuplicateSelections",
-      "last_modified": "2012-02-29 12:20:02",
+      "last_modified": "2012-03-06 15:03:24",
       "platforms": {
         "*": [
           {
-            "version": "1.1.0",
-            "url": "https://nodeload.github.com/colinta/SublimeDuplicateSelections/zipball/v1.1.0"
+            "version": "1.1.1",
+            "url": "https://nodeload.github.com/colinta/SublimeDuplicateSelections/zipball/v1.1.1"
           }
         ]
       }
