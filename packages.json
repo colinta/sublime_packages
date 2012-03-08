@@ -81,12 +81,12 @@
       "description": "Adds caret moving and newline entering commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeSimpleMovements",
-      "last_modified": "2012-03-08 09:51:31",
+      "last_modified": "2012-03-08 11:40:23",
       "platforms": {
         "*": [
           {
-            "version": "1.4.6",
-            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.4.6"
+            "version": "1.4.7",
+            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.4.7"
           }
         ]
       }
