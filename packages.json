@@ -81,12 +81,12 @@
       "description": "Adds caret moving and newline entering commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeSimpleMovements",
-      "last_modified": "2012-03-06 15:00:23",
+      "last_modified": "2012-03-08 09:51:31",
       "platforms": {
         "*": [
           {
-            "version": "1.4.5",
-            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.4.5"
+            "version": "1.4.6",
+            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.4.6"
           }
         ]
       }
@@ -156,12 +156,12 @@
       "description": "A version of the Sublime Text 2 plugin at <http://www.sublimetext.com/forum/viewtopic.php?f=5&t=2260&start=0> that makes for TextMate-like clipboard history.",
       "author": "AJ Palkovic (ajpalkovic), Martin Aspeli (optilude) and Colin Thomas-Arnold (colinta)",
       "homepage": "https://gist.github.com/1590661",
-      "last_modified": "2012-03-07 16:15:47",
+      "last_modified": "2012-03-08 09:52:17",
       "platforms": {
         "*": [
           {
-            "version": "1.0.6",
-            "url": "https://nodeload.github.com/colinta/SublimeClipboardManager/zipball/v1.0.6"
+            "version": "1.0.7",
+            "url": "https://nodeload.github.com/colinta/SublimeClipboardManager/zipball/v1.0.7"
           }
         ]
       }
