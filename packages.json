@@ -225,6 +225,36 @@
           }
         ]
       }
+    },
+    {
+      "name": "ScreencastDirector",
+      "description": "This is how I make screencasts on <http://colinta.com>.",
+      "author": "Colin Thomas-Arnold (colinta)",
+      "homepage": "https://github.com/colinta/SublimeScreencastDirector",
+      "last_modified": "2012-03-30 10:37:42",
+      "platforms": {
+        "*": [
+          {
+            "version": "1.0.0",
+            "url": "https://nodeload.github.com/colinta/SublimeScreencastDirector/zipball/v1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TextFormatting",
+      "description": "Adds text-formatting tricks to Sublime Text.  Mostly for PEP8 formatting.",
+      "author": "Colin Thomas-Arnold (colinta)",
+      "homepage": "https://github.com/colinta/SublimeTextFormatting",
+      "last_modified": "2012-03-30 10:39:56",
+      "platforms": {
+        "*": [
+          {
+            "version": "1.0.1",
+            "url": "https://nodeload.github.com/colinta/SublimeTextFormatting/zipball/v1.0.1"
+          }
+        ]
+      }
     }
   ]
 }
