@@ -1,7 +1,10 @@
 #!/usr/local/bin/bash
 
 root="/Users/colinta/Library/Application Support/Sublime Text 2/Packages"
-files=("zenburn" "MoveText" "TransposeCharacter" "Bracketeer" "Quickfind" "SimpleMovements" "StringEncode" "FileDiffs" "MarkAndMove" "ChangeQuotes" "ClipboardManager" "ApacheConf.tmLanguage" "Calculate" "SetSyntax" "DuplicateSelections")
+files=("zenburn" "MoveText" "TransposeCharacter" "Bracketeer" "Quickfind"
+       "SimpleMovements" "StringEncode" "FileDiffs" "MarkAndMove" "ChangeQuotes"
+       "ClipboardManager" "ApacheConf.tmLanguage" "Calculate" "SetSyntax"
+       "DuplicateSelections" "ScreencastDirector" "TextFormatting")
 
 for folder in ${files[@]}
 do
