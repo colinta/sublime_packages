@@ -81,12 +81,12 @@
       "description": "Adds caret moving and newline entering commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeSimpleMovements",
-      "last_modified": "2012-03-08 11:40:23",
+      "last_modified": "2012-03-30 10:44:36",
       "platforms": {
         "*": [
           {
-            "version": "1.4.7",
-            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.4.7"
+            "version": "1.5.0",
+            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.5.0"
           }
         ]
       }
@@ -156,12 +156,12 @@
       "description": "A version of the Sublime Text 2 plugin at <http://www.sublimetext.com/forum/viewtopic.php?f=5&t=2260&start=0> that makes for TextMate-like clipboard history.",
       "author": "AJ Palkovic (ajpalkovic), Martin Aspeli (optilude) and Colin Thomas-Arnold (colinta)",
       "homepage": "https://gist.github.com/1590661",
-      "last_modified": "2012-03-08 09:52:17",
+      "last_modified": "2012-03-30 10:48:25",
       "platforms": {
         "*": [
           {
-            "version": "1.0.7",
-            "url": "https://nodeload.github.com/colinta/SublimeClipboardManager/zipball/v1.0.7"
+            "version": "1.1.0",
+            "url": "https://nodeload.github.com/colinta/SublimeClipboardManager/zipball/v1.1.0"
           }
         ]
       }
@@ -246,12 +246,12 @@
       "description": "Adds text-formatting tricks to Sublime Text.  Mostly for PEP8 formatting.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeTextFormatting",
-      "last_modified": "2012-03-30 10:39:56",
+      "last_modified": "2012-03-30 10:52:44",
       "platforms": {
         "*": [
           {
-            "version": "1.0.1",
-            "url": "https://nodeload.github.com/colinta/SublimeTextFormatting/zipball/v1.0.1"
+            "version": "1.0.2",
+            "url": "https://nodeload.github.com/colinta/SublimeTextFormatting/zipball/v1.0.2"
           }
         ]
       }
