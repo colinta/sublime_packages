@@ -231,12 +231,12 @@
       "description": "This is how I make screencasts on <http://colinta.com>.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeScreencastDirector",
-      "last_modified": "2012-03-30 10:37:42",
+      "last_modified": "2012-04-15 11:19:54",
       "platforms": {
         "*": [
           {
-            "version": "1.0.0",
-            "url": "https://nodeload.github.com/colinta/SublimeScreencastDirector/zipball/v1.0.0"
+            "version": "1.0.3",
+            "url": "https://nodeload.github.com/colinta/SublimeScreencastDirector/zipball/v1.0.3"
           }
         ]
       }
