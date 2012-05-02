@@ -51,12 +51,12 @@
       "description": "Some bracket manipulation, selection, and insertion commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeBracketeer",
-      "last_modified": "2012-03-09 17:41:41",
+      "last_modified": "2012-04-15 19:05:26",
       "platforms": {
         "*": [
           {
-            "version": "1.2.13",
-            "url": "https://nodeload.github.com/colinta/SublimeBracketeer/zipball/v1.2.13"
+            "version": "1.2.14",
+            "url": "https://nodeload.github.com/colinta/SublimeBracketeer/zipball/v1.2.14"
           }
         ]
       }
@@ -96,12 +96,12 @@
       "description": "Converts characters from one encoding to another using a transformation (think HTML entities, not character encodings).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeStringEncode",
-      "last_modified": "2012-03-07 09:21:34",
+      "last_modified": "2012-04-15 19:08:56",
       "platforms": {
         "*": [
           {
-            "version": "1.0.7",
-            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zipball/v1.0.7"
+            "version": "1.0.8",
+            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zipball/v1.0.8"
           }
         ]
       }
@@ -231,12 +231,12 @@
       "description": "This is how I make screencasts on <http://colinta.com>.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeScreencastDirector",
-      "last_modified": "2012-04-15 11:19:54",
+      "last_modified": "2012-04-15 19:07:17",
       "platforms": {
         "*": [
           {
-            "version": "1.0.3",
-            "url": "https://nodeload.github.com/colinta/SublimeScreencastDirector/zipball/v1.0.3"
+            "version": "1.1.0",
+            "url": "https://nodeload.github.com/colinta/SublimeScreencastDirector/zipball/v1.1.0"
           }
         ]
       }
