@@ -21,9 +21,9 @@ PACKAGEJSON
 
   pushd "$root/$folder" > /dev/null
 
-  latest_tag=$(g tag | sortver | tail -n 1)
+  latest_tag=$(git tag | sortver | tail -n 1)
   latest_version=${latest_tag:1}
-  tag_date=$(g log --pretty=format:'%ci' -n 1 "$latest_tag")
+  tag_date=$(git log --pretty=format:'%ci' -n 1 "$latest_tag")
   tag_date=${tag_date:0:19}
 
   package_json="$root/$folder/package.json"
