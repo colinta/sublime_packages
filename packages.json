@@ -21,12 +21,12 @@
       "description": "Select text and drag it around, or setup a text tunnel to move code from one location to another.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeMoveText",
-      "last_modified": "2012-01-30 11:58:28",
+      "last_modified": "2012-07-04 10:18:37",
       "platforms": {
         "*": [
           {
-            "version": "1.0.6",
-            "url": "https://nodeload.github.com/colinta/SublimeMoveText/zipball/v1.0.6"
+            "version": "1.0.7",
+            "url": "https://nodeload.github.com/colinta/SublimeMoveText/zipball/v1.0.7"
           }
         ]
       }
@@ -36,12 +36,12 @@
       "description": "Swaps two characters, lines, words, or reverses a selection.  Depending on cursor location and selection(s).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeTransposeCharacter",
-      "last_modified": "2012-02-24 13:46:57",
+      "last_modified": "2012-07-04 10:18:38",
       "platforms": {
         "*": [
           {
-            "version": "2.1.1",
-            "url": "https://nodeload.github.com/colinta/SublimeTransposeCharacter/zipball/v2.1.1"
+            "version": "2.1.2",
+            "url": "https://nodeload.github.com/colinta/SublimeTransposeCharacter/zipball/v2.1.2"
           }
         ]
       }
@@ -51,12 +51,12 @@
       "description": "Some bracket manipulation, selection, and insertion commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeBracketeer",
-      "last_modified": "2012-05-16 11:06:05",
+      "last_modified": "2012-07-04 10:21:33",
       "platforms": {
         "*": [
           {
-            "version": "1.2.15",
-            "url": "https://nodeload.github.com/colinta/SublimeBracketeer/zipball/v1.2.15"
+            "version": "1.2.16",
+            "url": "https://nodeload.github.com/colinta/SublimeBracketeer/zipball/v1.2.16"
           }
         ]
       }
@@ -66,12 +66,12 @@
       "description": "Works similarly to TextMate's ctrl+s.  But if text is already selected, it will be the default search.  Keep pressing ctrl+s to search for the next instance.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeQuickfind",
-      "last_modified": "2012-03-06 14:59:03",
+      "last_modified": "2012-07-04 10:18:38",
       "platforms": {
         "*": [
           {
-            "version": "1.4.1",
-            "url": "https://nodeload.github.com/colinta/SublimeQuickfind/zipball/v1.4.1"
+            "version": "1.4.2",
+            "url": "https://nodeload.github.com/colinta/SublimeQuickfind/zipball/v1.4.2"
           }
         ]
       }
@@ -81,12 +81,12 @@
       "description": "Adds caret moving and newline entering commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeSimpleMovements",
-      "last_modified": "2012-06-29 07:13:27",
+      "last_modified": "2012-07-04 10:18:38",
       "platforms": {
         "*": [
           {
-            "version": "1.7.0",
-            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.7.0"
+            "version": "1.7.1",
+            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zipball/v1.7.1"
           }
         ]
       }
@@ -96,12 +96,12 @@
       "description": "Converts characters from one encoding to another using a transformation (think HTML entities, not character encodings).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeStringEncode",
-      "last_modified": "2012-04-15 19:08:56",
+      "last_modified": "2012-07-04 10:18:38",
       "platforms": {
         "*": [
           {
-            "version": "1.0.8",
-            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zipball/v1.0.8"
+            "version": "1.0.9",
+            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zipball/v1.0.9"
           }
         ]
       }
@@ -111,12 +111,12 @@
       "description": "Show diffs between the current file, or selection(s) in the current file, and clipboard, another file, or unsaved changes.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeFileDiffs",
-      "last_modified": "2012-06-29 07:15:30",
+      "last_modified": "2012-07-04 10:18:38",
       "platforms": {
         "*": [
           {
-            "version": "1.2.10",
-            "url": "https://nodeload.github.com/colinta/SublimeFileDiffs/zipball/v1.2.10"
+            "version": "1.2.11",
+            "url": "https://nodeload.github.com/colinta/SublimeFileDiffs/zipball/v1.2.11"
           }
         ]
       }
@@ -126,12 +126,12 @@
       "description": "Allows for keyboard-only multiple selections.  Select some stuff, mark it, then move the cursor around and add more marks, recall marks, or move between marks.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeMarkAndMove",
-      "last_modified": "2012-03-02 15:20:29",
+      "last_modified": "2012-07-04 10:18:38",
       "platforms": {
         "*": [
           {
-            "version": "1.2.0",
-            "url": "https://nodeload.github.com/colinta/SublimeMarkAndMove/zipball/v1.2.0"
+            "version": "1.2.1",
+            "url": "https://nodeload.github.com/colinta/SublimeMarkAndMove/zipball/v1.2.1"
           }
         ]
       }
@@ -141,12 +141,12 @@
       "description": "Converts single to double or double to single quotes.  Attempts to preserve correct escaping, though this could be improved I'm sure.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeChangeQuotes",
-      "last_modified": "2012-01-24 17:01:17",
+      "last_modified": "2012-07-04 10:18:38",
       "platforms": {
         "*": [
           {
-            "version": "1.0.2",
-            "url": "https://nodeload.github.com/colinta/SublimeChangeQuotes/zipball/v1.0.2"
+            "version": "1.0.3",
+            "url": "https://nodeload.github.com/colinta/SublimeChangeQuotes/zipball/v1.0.3"
           }
         ]
       }
@@ -156,12 +156,12 @@
       "description": "A version of the Sublime Text 2 plugin at <http://www.sublimetext.com/forum/viewtopic.php?f=5&t=2260&start=0> that makes for TextMate-like clipboard history.",
       "author": "AJ Palkovic (ajpalkovic), Martin Aspeli (optilude) and Colin Thomas-Arnold (colinta)",
       "homepage": "https://gist.github.com/1590661",
-      "last_modified": "2012-05-02 11:15:35",
+      "last_modified": "2012-07-04 10:17:47",
       "platforms": {
         "*": [
           {
-            "version": "1.2.0",
-            "url": "https://nodeload.github.com/colinta/SublimeClipboardManager/zipball/v1.2.0"
+            "version": "1.2.1",
+            "url": "https://nodeload.github.com/colinta/SublimeClipboardManager/zipball/v1.2.1"
           }
         ]
       }
@@ -171,12 +171,12 @@
       "description": "For htaccess and .conf files.  By GreyWyvern, with assist by radiosilence.  <http://www.sublimetext.com/forum/viewtopic.php?f=5&t=856>.",
       "author": "GreyWyvern and radiosilence",
       "homepage": "https://github.com/colinta/ApacheConf.tmLanguage",
-      "last_modified": "2012-01-20 15:50:16",
+      "last_modified": "2012-01-26 11:47:15",
       "platforms": {
         "*": [
           {
-            "version": "1.0.2",
-            "url": "https://nodeload.github.com/colinta/ApacheConf.tmLanguage/zipball/v1.0.2"
+            "version": "1.0.3",
+            "url": "https://nodeload.github.com/colinta/ApacheConf.tmLanguage/zipball/v1.0.3"
           }
         ]
       }
@@ -186,12 +186,12 @@
       "description": "Calculations using python.  Also provides some number-related functions, like counting (across multiple selections).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeCalculate",
-      "last_modified": "2012-02-19 07:52:58",
+      "last_modified": "2012-07-04 10:18:39",
       "platforms": {
         "*": [
           {
-            "version": "1.2.0",
-            "url": "https://nodeload.github.com/colinta/SublimeCalculate/zipball/v1.2.0"
+            "version": "1.2.1",
+            "url": "https://nodeload.github.com/colinta/SublimeCalculate/zipball/v1.2.1"
           }
         ]
       }
@@ -201,12 +201,12 @@
       "description": "Some generic keyboard bindings for 'Set Syntax:'",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeSetSyntax",
-      "last_modified": "2012-02-19 08:19:33",
+      "last_modified": "2012-07-04 10:18:39",
       "platforms": {
         "*": [
           {
-            "version": "1.0.1",
-            "url": "https://nodeload.github.com/colinta/SublimeSetSyntax/zipball/v1.0.1"
+            "version": "1.0.2",
+            "url": "https://nodeload.github.com/colinta/SublimeSetSyntax/zipball/v1.0.2"
           }
         ]
       }
@@ -216,12 +216,12 @@
       "description": "If you have an equal number of empty selections (cursors) and selections, this command will place each selection at the corresponding cursor location.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeDuplicateSelections",
-      "last_modified": "2012-03-06 15:03:24",
+      "last_modified": "2012-07-04 10:18:39",
       "platforms": {
         "*": [
           {
-            "version": "1.1.1",
-            "url": "https://nodeload.github.com/colinta/SublimeDuplicateSelections/zipball/v1.1.1"
+            "version": "1.1.2",
+            "url": "https://nodeload.github.com/colinta/SublimeDuplicateSelections/zipball/v1.1.2"
           }
         ]
       }
@@ -231,12 +231,12 @@
       "description": "This is how I make screencasts on <http://colinta.com>.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeScreencastDirector",
-      "last_modified": "2012-06-29 07:16:03",
+      "last_modified": "2012-07-04 10:18:39",
       "platforms": {
         "*": [
           {
-            "version": "1.1.1",
-            "url": "https://nodeload.github.com/colinta/SublimeScreencastDirector/zipball/v1.1.1"
+            "version": "1.1.2",
+            "url": "https://nodeload.github.com/colinta/SublimeScreencastDirector/zipball/v1.1.2"
           }
         ]
       }
@@ -246,12 +246,12 @@
       "description": "Adds text-formatting tricks to Sublime Text.  Mostly for PEP8 formatting.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeTextFormatting",
-      "last_modified": "2012-06-29 07:16:37",
+      "last_modified": "2012-07-04 10:18:39",
       "platforms": {
         "*": [
           {
-            "version": "1.0.6",
-            "url": "https://nodeload.github.com/colinta/SublimeTextFormatting/zipball/v1.0.6"
+            "version": "1.0.7",
+            "url": "https://nodeload.github.com/colinta/SublimeTextFormatting/zipball/v1.0.7"
           }
         ]
       }
