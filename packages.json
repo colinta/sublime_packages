@@ -246,12 +246,12 @@
       "description": "Adds text-formatting tricks to Sublime Text.  Mostly for PEP8 formatting.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeTextFormatting",
-      "last_modified": "2012-07-04 10:18:39",
+      "last_modified": "2012-07-04 12:29:05",
       "platforms": {
         "*": [
           {
-            "version": "1.0.7",
-            "url": "https://nodeload.github.com/colinta/SublimeTextFormatting/zipball/v1.0.7"
+            "version": "1.1.0",
+            "url": "https://nodeload.github.com/colinta/SublimeTextFormatting/zipball/v1.1.0"
           }
         ]
       }
