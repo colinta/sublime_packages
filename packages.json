@@ -171,12 +171,12 @@
       "description": "For htaccess and .conf files.  By GreyWyvern, with assist by radiosilence.  <http://www.sublimetext.com/forum/viewtopic.php?f=5&t=856>.",
       "author": "GreyWyvern and radiosilence",
       "homepage": "https://github.com/colinta/ApacheConf.tmLanguage",
-      "last_modified": "2012-01-26 11:47:15",
+      "last_modified": "2012-05-11 15:37:40",
       "platforms": {
         "*": [
           {
-            "version": "1.0.3",
-            "url": "https://nodeload.github.com/colinta/ApacheConf.tmLanguage/zipball/v1.0.3"
+            "version": "1.0.4",
+            "url": "https://nodeload.github.com/colinta/ApacheConf.tmLanguage/zipball/v1.0.4"
           }
         ]
       }
