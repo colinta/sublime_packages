@@ -6,12 +6,12 @@
       "description": "Zenburn color scheme.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "http://echonull.colinta.com/null/you-probably-googled-zenburn-textmate/",
-      "last_modified": "2012-05-23 17:25:09",
+      "last_modified": "2012-07-05 10:03:26",
       "platforms": {
         "*": [
           {
-            "version": "1.0.2",
-            "url": "https://nodeload.github.com/colinta/zenburn/zipball/v1.0.2"
+            "version": "1.0.3",
+            "url": "https://nodeload.github.com/colinta/zenburn/zipball/v1.0.3"
           }
         ]
       }
