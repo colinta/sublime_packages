@@ -96,12 +96,12 @@
       "description": "Converts characters from one encoding to another using a transformation (think HTML entities, not character encodings).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeStringEncode",
-      "last_modified": "2012-07-04 10:18:38",
+      "last_modified": "2012-07-24 07:34:20",
       "platforms": {
         "*": [
           {
-            "version": "1.0.9",
-            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zipball/v1.0.9"
+            "version": "1.0.10",
+            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zipball/v1.0.10"
           }
         ]
       }
