@@ -255,6 +255,21 @@
           }
         ]
       }
+    },
+    {
+      "name": "INDY500",
+      "description": "The original INDY500 game for Sublime Text.  Yes.  You read that right.",
+      "author": "Colin Thomas-Arnold (colinta)",
+      "homepage": "https://github.com/colinta/INDY500",
+      "last_modified": "2012-07-28 08:47:39",
+      "platforms": {
+        "*": [
+          {
+            "version": "1.0.0",
+            "url": "https://nodeload.github.com/colinta/INDY500/zipball/v1.0.0"
+          }
+        ]
+      }
     }
   ]
 }
