@@ -66,12 +66,12 @@
       "description": "Works similarly to TextMate's ctrl+s.  But if text is already selected, it will be the default search.  Keep pressing ctrl+s to search for the next instance.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeQuickfind",
-      "last_modified": "2012-07-04 10:18:38",
+      "last_modified": "2012-08-22 09:53:52",
       "platforms": {
         "*": [
           {
-            "version": "1.4.2",
-            "url": "https://nodeload.github.com/colinta/SublimeQuickfind/zipball/v1.4.2"
+            "version": "1.4.3",
+            "url": "https://nodeload.github.com/colinta/SublimeQuickfind/zipball/v1.4.3"
           }
         ]
       }
@@ -96,12 +96,12 @@
       "description": "Converts characters from one encoding to another using a transformation (think HTML entities, not character encodings).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeStringEncode",
-      "last_modified": "2012-07-30 12:21:03",
+      "last_modified": "2012-08-22 09:55:31",
       "platforms": {
         "*": [
           {
-            "version": "1.1.0",
-            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zipball/v1.1.0"
+            "version": "1.2.1",
+            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zipball/v1.2.1"
           }
         ]
       }
@@ -141,12 +141,12 @@
       "description": "Converts single to double or double to single quotes.  Attempts to preserve correct escaping, though this could be improved I'm sure.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeChangeQuotes",
-      "last_modified": "2012-07-04 10:18:38",
+      "last_modified": "2012-08-22 09:53:07",
       "platforms": {
         "*": [
           {
-            "version": "1.0.3",
-            "url": "https://nodeload.github.com/colinta/SublimeChangeQuotes/zipball/v1.0.3"
+            "version": "1.0.4",
+            "url": "https://nodeload.github.com/colinta/SublimeChangeQuotes/zipball/v1.0.4"
           }
         ]
       }
@@ -246,12 +246,12 @@
       "description": "Adds text-formatting tricks to Sublime Text.  Mostly for PEP8 formatting.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeTextFormatting",
-      "last_modified": "2012-07-30 12:21:52",
+      "last_modified": "2012-08-22 09:57:14",
       "platforms": {
         "*": [
           {
-            "version": "1.1.4",
-            "url": "https://nodeload.github.com/colinta/SublimeTextFormatting/zipball/v1.1.4"
+            "version": "1.2.0",
+            "url": "https://nodeload.github.com/colinta/SublimeTextFormatting/zipball/v1.2.0"
           }
         ]
       }
