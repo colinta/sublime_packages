@@ -21,12 +21,12 @@
       "description": "Select text and drag it around, or setup a text tunnel to move code from one location to another.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeMoveText",
-      "last_modified": "2012-07-04 10:18:37",
+      "last_modified": "2012-09-07 08:31:00",
       "platforms": {
         "*": [
           {
-            "version": "1.0.7",
-            "url": "https://nodeload.github.com/colinta/SublimeMoveText/zipball/v1.0.7"
+            "version": "1.1.0",
+            "url": "https://nodeload.github.com/colinta/SublimeMoveText/zipball/v1.1.0"
           }
         ]
       }
