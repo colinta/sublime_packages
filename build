@@ -46,7 +46,7 @@ $out
         "*": [
           {
             "version": "$latest_version",
-            "url": "https://nodeload.github.com/colinta/$repo/zipball/$latest_tag"
+            "url": "https://nodeload.github.com/colinta/$repo/zip/$latest_tag"
           }
         ]
       }
