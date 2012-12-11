@@ -6,12 +6,12 @@
       "description": "Zenburn color scheme.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "http://colinta.com/projects/zenburn_color_scheme.html",
-      "last_modified": "2012-07-27 13:47:13",
+      "last_modified": "2012-12-11 10:24:32",
       "platforms": {
         "*": [
           {
-            "version": "1.0.4",
-            "url": "https://nodeload.github.com/colinta/zenburn/zip/v1.0.4"
+            "version": "2.1.1",
+            "url": "https://nodeload.github.com/colinta/zenburn/zip/v2.1.1"
           }
         ]
       }
