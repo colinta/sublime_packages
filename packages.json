@@ -36,12 +36,12 @@
       "description": "Swaps two characters, lines, words, or reverses a selection.  Depending on cursor location and selection(s).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeTransposeCharacter",
-      "last_modified": "2012-07-04 10:18:38",
+      "last_modified": "2012-12-18 09:16:13",
       "platforms": {
         "*": [
           {
-            "version": "2.1.2",
-            "url": "https://nodeload.github.com/colinta/SublimeTransposeCharacter/zip/v2.1.2"
+            "version": "2.1.3",
+            "url": "https://nodeload.github.com/colinta/SublimeTransposeCharacter/zip/v2.1.3"
           }
         ]
       }
@@ -51,12 +51,12 @@
       "description": "Some bracket manipulation, selection, and insertion commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeBracketeer",
-      "last_modified": "2012-08-22 14:01:59",
+      "last_modified": "2012-12-18 09:14:50",
       "platforms": {
         "*": [
           {
-            "version": "1.3.2",
-            "url": "https://nodeload.github.com/colinta/SublimeBracketeer/zip/v1.3.2"
+            "version": "1.4.0",
+            "url": "https://nodeload.github.com/colinta/SublimeBracketeer/zip/v1.4.0"
           }
         ]
       }
@@ -126,12 +126,12 @@
       "description": "Allows for keyboard-only multiple selections.  Select some stuff, mark it, then move the cursor around and add more marks, recall marks, or move between marks.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeMarkAndMove",
-      "last_modified": "2012-08-22 12:37:07",
+      "last_modified": "2012-12-18 09:16:46",
       "platforms": {
         "*": [
           {
-            "version": "1.2.2",
-            "url": "https://nodeload.github.com/colinta/SublimeMarkAndMove/zip/v1.2.2"
+            "version": "1.2.3",
+            "url": "https://nodeload.github.com/colinta/SublimeMarkAndMove/zip/v1.2.3"
           }
         ]
       }
@@ -216,12 +216,12 @@
       "description": "If you have an equal number of empty selections (cursors) and selections, this command will place each selection at the corresponding cursor location.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeDuplicateSelections",
-      "last_modified": "2012-07-04 10:18:39",
+      "last_modified": "2012-12-18 09:33:38",
       "platforms": {
         "*": [
           {
-            "version": "1.1.2",
-            "url": "https://nodeload.github.com/colinta/SublimeDuplicateSelections/zip/v1.1.2"
+            "version": "1.2.0",
+            "url": "https://nodeload.github.com/colinta/SublimeDuplicateSelections/zip/v1.2.0"
           }
         ]
       }
