@@ -141,12 +141,12 @@
       "description": "Converts single to double or double to single quotes.  Attempts to preserve correct escaping, though this could be improved I'm sure.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeChangeQuotes",
-      "last_modified": "2012-09-10 08:21:19",
+      "last_modified": "2013-02-18 07:20:31",
       "platforms": {
         "*": [
           {
-            "version": "1.0.5",
-            "url": "https://nodeload.github.com/colinta/SublimeChangeQuotes/zip/v1.0.5"
+            "version": "1.0.6",
+            "url": "https://nodeload.github.com/colinta/SublimeChangeQuotes/zip/v1.0.6"
           }
         ]
       }
