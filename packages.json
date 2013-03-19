@@ -21,12 +21,12 @@
       "description": "Select text and drag it around, or setup a text tunnel to move code from one location to another.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeMoveText",
-      "last_modified": "2013-03-18 19:17:56",
+      "last_modified": "2013-03-18 20:49:43",
       "platforms": {
         "*": [
           {
-            "version": "1.2.0",
-            "url": "https://nodeload.github.com/colinta/SublimeMoveText/zip/v1.2.0"
+            "version": "1.2.1",
+            "url": "https://nodeload.github.com/colinta/SublimeMoveText/zip/v1.2.1"
           }
         ]
       }
@@ -51,12 +51,12 @@
       "description": "Some bracket manipulation, selection, and insertion commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeBracketeer",
-      "last_modified": "2013-03-18 19:22:33",
+      "last_modified": "2013-03-18 20:49:43",
       "platforms": {
         "*": [
           {
-            "version": "1.5.1",
-            "url": "https://nodeload.github.com/colinta/SublimeBracketeer/zip/v1.5.1"
+            "version": "1.5.2",
+            "url": "https://nodeload.github.com/colinta/SublimeBracketeer/zip/v1.5.2"
           }
         ]
       }
@@ -66,12 +66,12 @@
       "description": "Works similarly to TextMate's ctrl+s.  But if text is already selected, it will be the default search.  Keep pressing ctrl+s to search for the next instance.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeQuickfind",
-      "last_modified": "2013-03-18 19:23:00",
+      "last_modified": "2013-03-18 20:49:44",
       "platforms": {
         "*": [
           {
-            "version": "1.5.0",
-            "url": "https://nodeload.github.com/colinta/SublimeQuickfind/zip/v1.5.0"
+            "version": "1.5.1",
+            "url": "https://nodeload.github.com/colinta/SublimeQuickfind/zip/v1.5.1"
           }
         ]
       }
@@ -81,12 +81,12 @@
       "description": "Adds caret moving and newline entering commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeSimpleMovements",
-      "last_modified": "2013-03-18 19:23:33",
+      "last_modified": "2013-03-18 20:49:44",
       "platforms": {
         "*": [
           {
-            "version": "1.8.0",
-            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zip/v1.8.0"
+            "version": "1.8.1",
+            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zip/v1.8.1"
           }
         ]
       }
@@ -96,12 +96,12 @@
       "description": "Converts characters from one encoding to another using a transformation (think HTML entities, not character encodings).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeStringEncode",
-      "last_modified": "2013-03-18 19:23:48",
+      "last_modified": "2013-03-18 20:49:44",
       "platforms": {
         "*": [
           {
-            "version": "1.5.0",
-            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zip/v1.5.0"
+            "version": "1.5.1",
+            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zip/v1.5.1"
           }
         ]
       }
@@ -126,12 +126,12 @@
       "description": "Allows for keyboard-only multiple selections.  Select some stuff, mark it, then move the cursor around and add more marks, recall marks, or move between marks.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeMarkAndMove",
-      "last_modified": "2013-03-18 19:17:58",
+      "last_modified": "2013-03-18 20:49:44",
       "platforms": {
         "*": [
           {
-            "version": "1.3.0",
-            "url": "https://nodeload.github.com/colinta/SublimeMarkAndMove/zip/v1.3.0"
+            "version": "1.3.1",
+            "url": "https://nodeload.github.com/colinta/SublimeMarkAndMove/zip/v1.3.1"
           }
         ]
       }
@@ -141,12 +141,12 @@
       "description": "Converts single to double or double to single quotes.  Attempts to preserve correct escaping, though this could be improved I'm sure.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeChangeQuotes",
-      "last_modified": "2013-03-18 19:17:58",
+      "last_modified": "2013-03-18 20:49:44",
       "platforms": {
         "*": [
           {
-            "version": "1.1.0",
-            "url": "https://nodeload.github.com/colinta/SublimeChangeQuotes/zip/v1.1.0"
+            "version": "1.1.1",
+            "url": "https://nodeload.github.com/colinta/SublimeChangeQuotes/zip/v1.1.1"
           }
         ]
       }
@@ -186,12 +186,12 @@
       "description": "Calculations using python.  Also provides some number-related functions, like counting (across multiple selections).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeCalculate",
-      "last_modified": "2013-03-18 19:17:58",
+      "last_modified": "2013-03-18 20:49:45",
       "platforms": {
         "*": [
           {
-            "version": "1.5.0",
-            "url": "https://nodeload.github.com/colinta/SublimeCalculate/zip/v1.5.0"
+            "version": "1.5.1",
+            "url": "https://nodeload.github.com/colinta/SublimeCalculate/zip/v1.5.1"
           }
         ]
       }
@@ -246,12 +246,12 @@
       "description": "Adds text-formatting tricks to Sublime Text.  Mostly for PEP8 formatting.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeTextFormatting",
-      "last_modified": "2013-03-18 19:28:08",
+      "last_modified": "2013-03-18 20:49:45",
       "platforms": {
         "*": [
           {
-            "version": "1.4.0",
-            "url": "https://nodeload.github.com/colinta/SublimeTextFormatting/zip/v1.4.0"
+            "version": "1.4.1",
+            "url": "https://nodeload.github.com/colinta/SublimeTextFormatting/zip/v1.4.1"
           }
         ]
       }
