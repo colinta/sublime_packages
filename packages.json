@@ -186,12 +186,12 @@
       "description": "Calculations using python.  Also provides some number-related functions, like counting (across multiple selections).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeCalculate",
-      "last_modified": "2013-03-21 23:33:06",
+      "last_modified": "2013-03-28 15:49:04",
       "platforms": {
         "*": [
           {
-            "version": "1.5.2",
-            "url": "https://nodeload.github.com/colinta/SublimeCalculate/zip/v1.5.2"
+            "version": "1.6.0",
+            "url": "https://nodeload.github.com/colinta/SublimeCalculate/zip/v1.6.0"
           }
         ]
       }
