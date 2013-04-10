@@ -81,12 +81,12 @@
       "description": "Adds caret moving and newline entering commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeSimpleMovements",
-      "last_modified": "2013-03-18 20:49:44",
+      "last_modified": "2013-04-10 07:29:58",
       "platforms": {
         "*": [
           {
-            "version": "1.8.1",
-            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zip/v1.8.1"
+            "version": "1.9.0",
+            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zip/v1.9.0"
           }
         ]
       }
@@ -231,12 +231,12 @@
       "description": "This is how I make screencasts on <http://colinta.com>.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeScreencastDirector",
-      "last_modified": "2013-01-03 07:58:05",
+      "last_modified": "2013-04-10 07:31:03",
       "platforms": {
         "*": [
           {
-            "version": "1.1.3",
-            "url": "https://nodeload.github.com/colinta/SublimeScreencastDirector/zip/v1.1.3"
+            "version": "1.1.4",
+            "url": "https://nodeload.github.com/colinta/SublimeScreencastDirector/zip/v1.1.4"
           }
         ]
       }
