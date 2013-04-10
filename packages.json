@@ -96,12 +96,12 @@
       "description": "Converts characters from one encoding to another using a transformation (think HTML entities, not character encodings).",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeStringEncode",
-      "last_modified": "2013-03-18 20:49:44",
+      "last_modified": "2013-04-04 14:12:03",
       "platforms": {
         "*": [
           {
-            "version": "1.5.1",
-            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zip/v1.5.1"
+            "version": "1.5.2",
+            "url": "https://nodeload.github.com/colinta/SublimeStringEncode/zip/v1.5.2"
           }
         ]
       }
@@ -111,12 +111,12 @@
       "description": "Shows diffs - also in an external diff tool - between the current file, or selection(s) in the current file, and clipboard, another file, or unsaved changes.",
       "author": "Colin Thomas-Arnold (colinta), Sebastian Pape (spape), Jiri Urban (jiriurban)",
       "homepage": "https://github.com/spape/SublimeFileDiffs",
-      "last_modified": "2013-01-16 10:39:22",
+      "last_modified": "2013-04-01 16:25:15",
       "platforms": {
         "*": [
           {
-            "version": "1.5.0",
-            "url": "https://nodeload.github.com/colinta/SublimeFileDiffs/zip/v1.5.0"
+            "version": "1.5.1",
+            "url": "https://nodeload.github.com/colinta/SublimeFileDiffs/zip/v1.5.1"
           }
         ]
       }
@@ -246,12 +246,12 @@
       "description": "Adds text-formatting tricks to Sublime Text.  Mostly for PEP8 formatting.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeTextFormatting",
-      "last_modified": "2013-03-18 20:49:45",
+      "last_modified": "2013-04-02 15:33:20",
       "platforms": {
         "*": [
           {
-            "version": "1.4.1",
-            "url": "https://nodeload.github.com/colinta/SublimeTextFormatting/zip/v1.4.1"
+            "version": "1.4.2",
+            "url": "https://nodeload.github.com/colinta/SublimeTextFormatting/zip/v1.4.2"
           }
         ]
       }
