@@ -4,7 +4,7 @@
     {
       "name": "zenburn",
       "description": "Zenburn color scheme.",
-      "author": "Colin Thomas-Arnold (colinta)",
+      "author": "Colin T.A. Gray (colinta)",
       "homepage": "http://colinta.com/projects/zenburn_color_scheme.html",
       "last_modified": "2012-12-11 10:24:32",
       "platforms": {
@@ -81,12 +81,12 @@
       "description": "Adds caret moving and newline entering commands.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeSimpleMovements",
-      "last_modified": "2013-04-10 07:29:58",
+      "last_modified": "2013-05-13 11:50:44",
       "platforms": {
         "*": [
           {
-            "version": "1.9.0",
-            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zip/v1.9.0"
+            "version": "1.10.0",
+            "url": "https://nodeload.github.com/colinta/SublimeSimpleMovements/zip/v1.10.0"
           }
         ]
       }
@@ -124,7 +124,7 @@
     {
       "name": "MarkAndMove",
       "description": "Allows for keyboard-only multiple selections.  Select some stuff, mark it, then move the cursor around and add more marks, recall marks, or move between marks.",
-      "author": "Colin Thomas-Arnold (colinta)",
+      "author": "Colin T.A. Gray (colinta)",
       "homepage": "https://github.com/colinta/SublimeMarkAndMove",
       "last_modified": "2013-04-10 11:19:02",
       "platforms": {
@@ -199,7 +199,7 @@
     {
       "name": "SetSyntax",
       "description": "Some generic keyboard bindings for 'Set Syntax:'",
-      "author": "Colin Thomas-Arnold (colinta)",
+      "author": "Colin T.A. Gray (colinta)",
       "homepage": "https://github.com/colinta/SublimeSetSyntax",
       "last_modified": "2012-07-04 10:18:39",
       "platforms": {
