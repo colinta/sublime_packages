@@ -9,7 +9,7 @@
       "labels": ["color scheme", "theme"],
       "releases": [
         {
-          "details": "https://github.com/colinta/zenburn"
+          "details": "https://github.com/colinta/zenburn/tree/master"
         }
       ]
     },
@@ -21,12 +21,12 @@
       "labels": ["formatting", "text manipulation"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeMoveText",
-          "sublime_text": "< 3000"
+          "details": "https://github.com/colinta/SublimeMoveText/tree/master",
+          "sublime_text": "<3000"
         },
         {
           "details": "https://github.com/colinta/SublimeMoveText/tree/st3",
-          "sublime_text": ">= 3000"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -38,12 +38,12 @@
       "labels": ["text manipulation"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeTransposeCharacter",
-          "sublime_text": "< 3000"
+          "details": "https://github.com/colinta/SublimeTransposeCharacter/tree/master",
+          "sublime_text": "<3000"
         },
         {
           "details": "https://github.com/colinta/SublimeTransposeCharacter/tree/st3",
-          "sublime_text": ">= 3000"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -55,12 +55,12 @@
       "labels": ["formatting", "text manipulation"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeBracketeer",
-          "sublime_text": "< 3000"
+          "details": "https://github.com/colinta/SublimeBracketeer/tree/master",
+          "sublime_text": "<3000"
         },
         {
           "details": "https://github.com/colinta/SublimeBracketeer/tree/st3",
-          "sublime_text": ">= 3000"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -72,12 +72,12 @@
       "labels": ["file navigation", "search"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeQuickfind",
-          "sublime_text": "< 3000"
+          "details": "https://github.com/colinta/SublimeQuickfind/tree/master",
+          "sublime_text": "<3000"
         },
         {
           "details": "https://github.com/colinta/SublimeQuickfind/tree/st3",
-          "sublime_text": ">= 3000"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -89,12 +89,12 @@
       "labels": ["file navigation", "text manipulation"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeSimpleMovements",
-          "sublime_text": "< 3000"
+          "details": "https://github.com/colinta/SublimeSimpleMovements/tree/master",
+          "sublime_text": "<3000"
         },
         {
           "details": "https://github.com/colinta/SublimeSimpleMovements/tree/st3",
-          "sublime_text": ">= 3000"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -106,12 +106,12 @@
       "labels": ["text manipulation"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeStringEncode",
-          "sublime_text": "< 3000"
+          "details": "https://github.com/colinta/SublimeStringEncode/tree/master",
+          "sublime_text": "<3000"
         },
         {
           "details": "https://github.com/colinta/SublimeStringEncode/tree/st3",
-          "sublime_text": ">= 3000"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -123,12 +123,12 @@
       "labels": ["diff/merge"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeFileDiffs",
-          "sublime_text": "< 3000"
+          "details": "https://github.com/colinta/SublimeFileDiffs/tree/master",
+          "sublime_text": "<3000"
         },
         {
           "details": "https://github.com/colinta/SublimeFileDiffs/tree/st3",
-          "sublime_text": ">= 3000"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -140,12 +140,12 @@
       "labels": ["file navigation"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeMarkAndMove",
-          "sublime_text": "< 3000"
+          "details": "https://github.com/colinta/SublimeMarkAndMove/tree/master",
+          "sublime_text": "<3000"
         },
         {
           "details": "https://github.com/colinta/SublimeMarkAndMove/tree/st3",
-          "sublime_text": ">= 3000"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -157,12 +157,12 @@
       "labels": ["text manipulation"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeChangeQuotes",
-          "sublime_text": "< 3000"
+          "details": "https://github.com/colinta/SublimeChangeQuotes/tree/master",
+          "sublime_text": "<3000"
         },
         {
           "details": "https://github.com/colinta/SublimeChangeQuotes/tree/st3",
-          "sublime_text": ">= 3000"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -174,12 +174,12 @@
       "labels": ["clipboard"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeClipboardManager",
-          "sublime_text": "< 3000"
+          "details": "https://github.com/colinta/SublimeClipboardManager/tree/master",
+          "sublime_text": "<3000"
         },
         {
           "details": "https://github.com/colinta/SublimeClipboardManager/tree/st3",
-          "sublime_text": ">= 3000"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -191,12 +191,12 @@
       "labels": ["language syntax"],
       "releases": [
         {
-          "details": "https://github.com/colinta/ApacheConf.tmLanguage",
-          "sublime_text": "< 3000"
+          "details": "https://github.com/colinta/ApacheConf.tmLanguage/tree/master",
+          "sublime_text": "<3000"
         },
         {
           "details": "https://github.com/colinta/ApacheConf.tmLanguage/tree/master",
-          "sublime_text": ">= 3000"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -208,12 +208,12 @@
       "labels": ["calculator"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeCalculate",
-          "sublime_text": "< 3000"
+          "details": "https://github.com/colinta/SublimeCalculate/tree/master",
+          "sublime_text": "<3000"
         },
         {
           "details": "https://github.com/colinta/SublimeCalculate/tree/st3",
-          "sublime_text": ">= 3000"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -225,12 +225,12 @@
       "labels": ["language syntax"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeSetSyntax",
-          "sublime_text": "< 3000"
+          "details": "https://github.com/colinta/SublimeSetSyntax/tree/master",
+          "sublime_text": "<3000"
         },
         {
           "details": "https://github.com/colinta/SublimeSetSyntax/tree/st3",
-          "sublime_text": ">= 3000"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -242,12 +242,12 @@
       "labels": ["text manipulation"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeDuplicateSelections",
-          "sublime_text": "< 3000"
+          "details": "https://github.com/colinta/SublimeDuplicateSelections/tree/master",
+          "sublime_text": "<3000"
         },
         {
           "details": "https://github.com/colinta/SublimeDuplicateSelections/tree/st3",
-          "sublime_text": ">= 3000"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -259,12 +259,12 @@
       "labels": ["automation"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeScreencastDirector",
-          "sublime_text": "< 3000"
+          "details": "https://github.com/colinta/SublimeScreencastDirector/tree/master",
+          "sublime_text": "<3000"
         },
         {
           "details": "https://github.com/colinta/SublimeScreencastDirector/tree/st3",
-          "sublime_text": ">= 3000"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -276,12 +276,12 @@
       "labels": ["formatting", "text manipulation"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeTextFormatting",
-          "sublime_text": "< 3000"
+          "details": "https://github.com/colinta/SublimeTextFormatting/tree/master",
+          "sublime_text": "<3000"
         },
         {
           "details": "https://github.com/colinta/SublimeTextFormatting/tree/st3",
-          "sublime_text": ">= 3000"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -293,7 +293,7 @@
       "labels": ["game"],
       "releases": [
         {
-          "details": "https://github.com/colinta/INDY500"
+          "details": "https://github.com/colinta/INDY500/tree/master"
         }
       ]
     }
