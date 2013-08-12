@@ -251,7 +251,7 @@
     {
       "name": "ScreencastDirector",
       "description": "This is how I make screencasts on <http://colinta.com>.",
-      "author": "Colin Thomas-Arnold (colinta)",
+      "author": "Colin T.A. Gray (colinta)",
       "details": "https://github.com/colinta/SublimeScreencastDirector",
       "labels": ["automation"],
       "releases": [
@@ -285,7 +285,7 @@
     {
       "name": "INDY500",
       "description": "The original INDY500 game for Sublime Text.  Yes.  You read that right.",
-      "author": "Colin Thomas-Arnold (colinta)",
+      "author": "Colin T.A. Gray (colinta)",
       "details": "https://github.com/colinta/INDY500",
       "labels": ["game"],
       "releases": [
