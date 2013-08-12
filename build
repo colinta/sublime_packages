@@ -1,6 +1,6 @@
 #!/usr/local/bin/bash
 
-root="$HOME/Library/Application Support/Sublime Text 2/Packages"
+root="$HOME/Library/Application Support/Sublime Text 3/Packages"
 files=("zenburn" "MoveText" "TransposeCharacter" "Bracketeer" "Quickfind"
        "SimpleMovements" "StringEncode" "FileDiffs" "MarkAndMove" "ChangeQuotes"
        "ClipboardManager" "ApacheConf.tmLanguage" "Calculate" "SetSyntax"
@@ -11,7 +11,7 @@ do
   if [[ -z "$out" ]]; then
     out=$(cat <<PACKAGEJSON
 {
-  "schema_version": "1.1",
+  "schema_version": "2.0",
   "packages": [
 PACKAGEJSON
 )
@@ -27,30 +27,14 @@ PACKAGEJSON
   tag_date=${tag_date:0:19}
 
   package_json="$root/$folder/package.json"
-  name=$(json "$package_json" 'name')
-  description=$(json "$package_json" 'description')
-  author=$(json "$package_json" 'author')
-  homepage=$(json "$package_json" 'homepage')
-  repo=$(json "$package_json" 'repo')
+  package=$(sed 's/^/    /' < "$package_json")
 
-  echo ">>> $folder $latest_tag @ $tag_date" 1>&2
+  name=$(json "$package_json" 'name')
+
+  echo ">>> $name" 1>&2
   out=$(cat <<PACKAGEJSON
 $out
-    {
-      "name": "$name",
-      "description": "$description",
-      "author": "$author",
-      "homepage": "$homepage",
-      "last_modified": "$tag_date",
-      "platforms": {
-        "*": [
-          {
-            "version": "$latest_version",
-            "url": "https://nodeload.github.com/colinta/$repo/zip/$latest_tag"
-          }
-        ]
-      }
-    }
+$package
 PACKAGEJSON
 )
   popd > /dev/null
