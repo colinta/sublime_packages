@@ -6,7 +6,7 @@
       "description": "Zenburn color scheme.",
       "author": "Colin T.A. Gray (colinta)",
       "homepage": "http://colinta.com/projects/zenburn_color_scheme.html",
-      "labels": ["color scheme"],
+      "labels": ["color scheme", "theme"],
       "releases": [
         {
           "details": "https://github.com/colinta/zenburn"
@@ -18,6 +18,7 @@
       "description": "Select text and drag it around, or setup a text tunnel to move code from one location to another.",
       "author": "Colin T.A. Gray (colinta)",
       "homepage": "https://github.com/colinta/SublimeMoveText",
+      "labels": ["formatting", "text manipulation"],
       "releases": [
         {
           "details": "https://github.com/colinta/SublimeMoveText",
@@ -34,6 +35,7 @@
       "description": "Swaps two characters, lines, words, or reverses a selection.  Depending on cursor location and selection(s).",
       "author": "Colin T.A. Gray (colinta)",
       "homepage": "https://github.com/colinta/SublimeTransposeCharacter",
+      "labels": ["text manipulation"],
       "releases": [
         {
           "details": "https://github.com/colinta/SublimeTransposeCharacter",
@@ -50,6 +52,7 @@
       "description": "Some bracket manipulation, selection, and insertion commands.",
       "author": "Colin T.A. Gray (colinta)",
       "homepage": "https://github.com/colinta/SublimeBracketeer",
+      "labels": ["formatting", "text manipulation"],
       "releases": [
         {
           "details": "https://github.com/colinta/SublimeBracketeer",
@@ -66,6 +69,7 @@
       "description": "Works similarly to TextMate's ctrl+s.  But if text is already selected, it will be the default search.  Keep pressing ctrl+s to search for the next instance.",
       "author": "Colin T.A. Gray (colinta)",
       "homepage": "https://github.com/colinta/SublimeQuickfind",
+      "labels": ["file navigation", "search"],
       "releases": [
         {
           "details": "https://github.com/colinta/SublimeQuickfind",
@@ -82,6 +86,7 @@
       "description": "Adds caret moving and newline entering commands.",
       "author": "Colin T.A. Gray (colinta)",
       "homepage": "https://github.com/colinta/SublimeSimpleMovements",
+      "labels": ["file navigation", "text manipulation"],
       "releases": [
         {
           "details": "https://github.com/colinta/SublimeSimpleMovements",
@@ -98,6 +103,7 @@
       "description": "Converts characters from one encoding to another using a transformation (think HTML entities, not character encodings).",
       "author": "Colin T.A. Gray (colinta)",
       "homepage": "https://github.com/colinta/SublimeStringEncode",
+      "labels": ["text manipulation"],
       "releases": [
         {
           "details": "https://github.com/colinta/SublimeStringEncode",
@@ -114,6 +120,7 @@
       "description": "Shows diffs - also in an external diff tool - between the current file, or selection(s) in the current file, and clipboard, another file, or unsaved changes.",
       "author": "Colin T.A. Gray (colinta), Sebastian Pape (spape), Jiri Urban (jiriurban)",
       "homepage": "https://github.com/spape/SublimeFileDiffs",
+      "labels": ["diff/merge"],
       "releases": [
         {
           "details": "https://github.com/colinta/SublimeFileDiffs",
@@ -130,6 +137,7 @@
       "description": "Allows for keyboard-only multiple selections.  Select some stuff, mark it, then move the cursor around and add more marks, recall marks, or move between marks.",
       "author": "Colin T.A. Gray (colinta)",
       "homepage": "https://github.com/colinta/SublimeMarkAndMove",
+      "labels": ["file navigation"],
       "releases": [
         {
           "details": "https://github.com/colinta/SublimeMarkAndMove",
@@ -146,6 +154,7 @@
       "description": "Converts single to double or double to single quotes.  Attempts to preserve correct escaping, though this could be improved I'm sure.",
       "author": "Colin T.A. Gray (colinta)",
       "homepage": "https://github.com/colinta/SublimeChangeQuotes",
+      "labels": ["text manipulation"],
       "releases": [
         {
           "details": "https://github.com/colinta/SublimeChangeQuotes",
@@ -162,6 +171,7 @@
       "description": "A version of the Sublime Text 2 plugin at <http://www.sublimetext.com/forum/viewtopic.php?f=5&t=2260&start=0> that makes for TextMate-like clipboard history.",
       "author": "AJ Palkovic (ajpalkovic), Martin Aspeli (optilude) and Colin T.A. Gray (colinta)",
       "homepage": "https://gist.github.com/1590661",
+      "labels": ["clipboard"],
       "releases": [
         {
           "details": "https://github.com/colinta/SublimeClipboardManager",
@@ -178,6 +188,7 @@
       "description": "For htaccess and .conf files.  By GreyWyvern, with assist by radiosilence.  <http://www.sublimetext.com/forum/viewtopic.php?f=5&t=856>.",
       "author": "GreyWyvern and radiosilence",
       "homepage": "https://github.com/colinta/ApacheConf.tmLanguage",
+      "labels": ["language syntax"],
       "releases": [
         {
           "details": "https://github.com/colinta/ApacheConf.tmLanguage",
@@ -194,6 +205,7 @@
       "description": "Calculations using python.  Also provides some number-related functions, like counting (across multiple selections).",
       "author": "Colin T.A. Gray (colinta)",
       "homepage": "https://github.com/colinta/SublimeCalculate",
+      "labels": ["calculator"],
       "releases": [
         {
           "details": "https://github.com/colinta/SublimeCalculate",
@@ -210,6 +222,7 @@
       "description": "Some generic keyboard bindings for 'Set Syntax:'",
       "author": "Colin T.A. Gray (colinta)",
       "homepage": "https://github.com/colinta/SublimeSetSyntax",
+      "labels": ["language syntax"],
       "releases": [
         {
           "details": "https://github.com/colinta/SublimeSetSyntax",
@@ -226,6 +239,7 @@
       "description": "If you have an equal number of empty selections (cursors) and selections, this command will place each selection at the corresponding cursor location.",
       "author": "Colin T.A. Gray (colinta)",
       "homepage": "https://github.com/colinta/SublimeDuplicateSelections",
+      "labels": ["text manipulation"],
       "releases": [
         {
           "details": "https://github.com/colinta/SublimeDuplicateSelections",
@@ -242,6 +256,7 @@
       "description": "This is how I make screencasts on <http://colinta.com>.",
       "author": "Colin Thomas-Arnold (colinta)",
       "homepage": "https://github.com/colinta/SublimeScreencastDirector",
+      "labels": ["automation"],
       "releases": [
         {
           "details": "https://github.com/colinta/SublimeScreencastDirector",
@@ -258,6 +273,7 @@
       "description": "Adds text-formatting tricks to Sublime Text.  Mostly for PEP8 formatting.",
       "author": "Colin T.A. Gray (colinta)",
       "homepage": "https://github.com/colinta/SublimeTextFormatting",
+      "labels": ["formatting", "text manipulation"],
       "releases": [
         {
           "details": "https://github.com/colinta/SublimeTextFormatting",
