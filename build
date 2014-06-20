@@ -4,7 +4,8 @@ root="$HOME/Library/Application Support/Sublime Text 3/Packages"
 files=("zenburn" "MoveText" "TransposeCharacter" "Bracketeer" "Quickfind"
        "SimpleMovements" "StringEncode" "FileDiffs" "MarkAndMove" "ChangeQuotes"
        "ClipboardManager" "ApacheConf.tmLanguage" "Calculate" "SetSyntax"
-       "DuplicateSelections" "ScreencastDirector" "TextFormatting" "INDY500")
+       "DuplicateSelections" "ScreencastDirector" "TextFormatting" "INDY500"
+       "Android")
 
 for folder in ${files[@]}
 do
