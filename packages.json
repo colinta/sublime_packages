@@ -10,7 +10,6 @@
       "details": "https://github.com/colinta/zenburn",
       "releases": [
         {
-          "sublime_text": "*",
           "details": "https://github.com/colinta/zenburn/tags"
         }
       ]
@@ -124,12 +123,7 @@
       "labels": ["diff/merge"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeFileDiffs/tree/st2",
-          "sublime_text": "<3000"
-        },
-        {
-          "details": "https://github.com/colinta/SublimeFileDiffs/tags",
-          "sublime_text": ">=3000"
+          "details": "https://github.com/colinta/SublimeFileDiffs/tags"
         }
       ]
     },
@@ -290,7 +284,6 @@
       "labels": ["game"],
       "releases": [
         {
-          "sublime_text": "*",
           "details": "https://github.com/colinta/INDY500/tags"
         }
       ]
