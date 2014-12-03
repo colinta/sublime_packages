@@ -5,7 +5,7 @@ files=("zenburn" "MoveText" "TransposeCharacter" "Bracketeer" "Quickfind"
        "SimpleMovements" "StringEncode" "FileDiffs" "MarkAndMove" "ChangeQuotes"
        "ClipboardManager" "ApacheConf.tmLanguage" "Calculate" "SetSyntax"
        "DuplicateSelections" "ScreencastDirector" "TextFormatting" "INDY500"
-       "Android")
+       "Android" "MotionLookitup" "Groupy")
 
 for folder in ${files[@]}
 do

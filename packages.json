@@ -304,6 +304,25 @@
           "sublime_text": ">=3000"
         }
       ]
+    },
+    {
+      "name": "MotionLookitup",
+      "description": "Autocomplete plugin for RubyMotion and Sublime Text",
+      "author": "Colin T.A. Gray (colinta)",
+      "details": "https://github.com/colinta/MotionLookitup",
+      "labels": ["autocomplete", "rubymotion"],
+      "releases": [
+        {
+          "details": "https://github.com/colinta/MotionLookitup/tags",
+          "sublime_text": ">=3000"
+        }
+      ]
+    },
+    {
+      "repo": "SublimeGroupy",
+      "name": "Groupy",
+      "description": "Stores and opens named file groups",
+      "homepage": "https://github.com/colinta/SublimeGroupy"
     }
   ]
 }
