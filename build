@@ -5,7 +5,7 @@ files=("zenburn" "MoveText" "TransposeCharacter" "Bracketeer" "Quickfind"
        "SimpleMovements" "StringEncode" "FileDiffs" "MarkAndMove" "ChangeQuotes"
        "ClipboardManager" "ApacheConf.tmLanguage" "Calculate" "SetSyntax"
        "DuplicateSelections" "ScreencastDirector" "TextFormatting" "INDY500"
-       "Android" "MotionLookitup" "Groupy")
+       "Android" "MotionLookitup" "Groupy" "Swift-for-f-ing-sublime")
 
 for folder in ${files[@]}
 do
@@ -23,7 +23,12 @@ PACKAGEJSON
   pushd "$root/$folder" > /dev/null
 
   latest_tag=$(git tag | sortver | tail -n 1)
-  latest_version=${latest_tag:1}
+  if [[ "${latest_tag:0:1}" == "v" ]]; then
+    latest_version="${latest_tag:1}"
+  else
+    latest_version="$latest_tag"
+  fi
+
   tag_date=$(git log --pretty=format:'%ci' -n 1 "$latest_tag")
   tag_date=${tag_date:0:19}
 
@@ -32,7 +37,7 @@ PACKAGEJSON
 
   name=$(json "$package_json" 'name')
 
-  echo ">>> $name" 1>&2
+  echo ">>> $name ($latest_version)" 1>&2
   out=$(cat <<PACKAGEJSON
 $out
 $package
