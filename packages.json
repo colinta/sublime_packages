@@ -226,41 +226,15 @@
       ]
     },
     {
-      "name": "INDY500",
-      "description": "The original INDY500 game for Sublime Text.  Yes.  You read that right.",
+      "name": "TextDebugging",
+      "description": "Adds prinf-style debugging.",
       "author": "Colin T.A. Gray (colinta)",
-      "details": "https://github.com/colinta/INDY500",
-      "labels": ["game"],
+      "details": "https://github.com/colinta/SublimeTextDebugging",
+      "labels": ["text manipulation"],
       "releases": [
         {
-          "sublime_text": "*",
-          "details": "https://github.com/colinta/INDY500/tags"
-        }
-      ]
-    },
-    {
-      "name": "Android",
-      "description": "Commands to assist in Android development",
-      "author": "Colin T.A. Gray (colinta)",
-      "details": "https://github.com/colinta/SublimeTextAndroid",
-      "labels": ["android"],
-      "releases": [
-        {
-          "details": "https://github.com/colinta/SublimeTextAndroid/tags",
+          "details": "https://github.com/colinta/SublimeTextDebugging/tags",
           "sublime_text": ">=3000"
-        }
-      ]
-    },
-    {
-      "name": "MotionLookitup",
-      "description": "Autocomplete plugin for RubyMotion and Sublime Text",
-      "author": "Colin T.A. Gray (colinta)",
-      "details": "https://github.com/colinta/MotionLookitup",
-      "labels": ["autocomplete", "rubymotion"],
-      "releases": [
-        {
-          "details": "https://github.com/colinta/MotionLookitup/tags",
-          "sublime_text": "*"
         }
       ]
     },

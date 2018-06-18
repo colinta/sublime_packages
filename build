@@ -1,11 +1,11 @@
 #!/usr/local/bin/bash
 
 root="$HOME/Library/Application Support/Sublime Text 3/Packages"
-files=("zenburn" "MoveText" "TransposeCharacter" "Bracketeer" "Quickfind"
-       "SimpleMovements" "StringEncode" "FileDiffs" "MarkAndMove" "ChangeQuotes"
-       "ClipboardManager" "ApacheConf.tmLanguage" "Calculate" "SetSyntax"
-       "DuplicateSelections" "ScreencastDirector" "TextFormatting" "INDY500"
-       "Android" "MotionLookitup" "Groupy" "Swift-for-f-ing-sublime" "AlternativeAutocompletion")
+files=(zenburn MoveText TransposeCharacter Bracketeer Quickfind
+       SimpleMovements StringEncode FileDiffs MarkAndMove ChangeQuotes
+       ClipboardManager ApacheConf.tmLanguage Calculate SetSyntax
+       DuplicateSelections ScreencastDirector TextFormatting TextDebugging
+       Groupy "Swift-for-f-ing-sublime" AlternativeAutocompletion)
 
 for folder in ${files[@]}
 do
