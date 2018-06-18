@@ -10,7 +10,7 @@
       "details": "https://github.com/colinta/zenburn",
       "releases": [
         {
-          "sublime_text": "*",
+          "sublime_text": ">=3000",
           "details": "https://github.com/colinta/zenburn/tags"
         }
       ]
@@ -22,10 +22,6 @@
       "details": "https://github.com/colinta/SublimeMoveText",
       "labels": ["formatting", "text manipulation"],
       "releases": [
-        {
-          "details": "https://github.com/colinta/SublimeMoveText/tree/st2",
-          "sublime_text": "<3000"
-        },
         {
           "details": "https://github.com/colinta/SublimeMoveText/tags",
           "sublime_text": ">=3000"
@@ -40,10 +36,6 @@
       "labels": ["text manipulation"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeTransposeCharacter/tree/st2",
-          "sublime_text": "<3000"
-        },
-        {
           "details": "https://github.com/colinta/SublimeTransposeCharacter/tags",
           "sublime_text": ">=3000"
         }
@@ -56,10 +48,6 @@
       "details": "https://github.com/colinta/SublimeBracketeer",
       "labels": ["formatting", "text manipulation"],
       "releases": [
-        {
-          "details": "https://github.com/colinta/SublimeBracketeer/tree/st2",
-          "sublime_text": "<3000"
-        },
         {
           "details": "https://github.com/colinta/SublimeBracketeer/tags",
           "sublime_text": ">=3000"
@@ -74,10 +62,6 @@
       "labels": ["file navigation", "search"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeQuickfind/tree/st2",
-          "sublime_text": "<3000"
-        },
-        {
           "details": "https://github.com/colinta/SublimeQuickfind/tags",
           "sublime_text": ">=3000"
         }
@@ -91,10 +75,6 @@
       "labels": ["file navigation", "text manipulation"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeSimpleMovements/tree/st2",
-          "sublime_text": "<3000"
-        },
-        {
           "details": "https://github.com/colinta/SublimeSimpleMovements/tags",
           "sublime_text": ">=3000"
         }
@@ -107,10 +87,6 @@
       "details": "https://github.com/colinta/SublimeStringEncode",
       "labels": ["text manipulation"],
       "releases": [
-        {
-          "details": "https://github.com/colinta/SublimeStringEncode/tree/master",
-          "sublime_text": "<3000"
-        },
         {
           "details": "https://github.com/colinta/SublimeStringEncode/tags",
           "sublime_text": ">=3000"
@@ -126,7 +102,7 @@
       "releases": [
         {
           "details": "https://github.com/colinta/SublimeFileDiffs/tags",
-          "sublime_text": "*"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -137,10 +113,6 @@
       "details": "https://github.com/colinta/SublimeMarkAndMove",
       "labels": ["file navigation"],
       "releases": [
-        {
-          "details": "https://github.com/colinta/SublimeMarkAndMove/tree/st2",
-          "sublime_text": "<3000"
-        },
         {
           "details": "https://github.com/colinta/SublimeMarkAndMove/tags",
           "sublime_text": ">=3000"
@@ -155,10 +127,6 @@
       "labels": ["text manipulation"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeChangeQuotes/tree/st2",
-          "sublime_text": "<3000"
-        },
-        {
           "details": "https://github.com/colinta/SublimeChangeQuotes/tags",
           "sublime_text": ">=3000"
         }
@@ -172,10 +140,6 @@
       "details": "https://github.com/colinta/SublimeClipboardManager",
       "labels": ["clipboard"],
       "releases": [
-        {
-          "details": "https://github.com/colinta/SublimeClipboardManager/tree/st2",
-          "sublime_text": "<3000"
-        },
         {
           "details": "https://github.com/colinta/SublimeClipboardManager/tags",
           "sublime_text": ">=3000"
@@ -204,10 +168,6 @@
       "labels": ["calculator"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeCalculate/tree/st2",
-          "sublime_text": "<3000"
-        },
-        {
           "details": "https://github.com/colinta/SublimeCalculate/tags",
           "sublime_text": ">=3000"
         }
@@ -220,10 +180,6 @@
       "details": "https://github.com/colinta/SublimeSetSyntax",
       "labels": ["language syntax"],
       "releases": [
-        {
-          "details": "https://github.com/colinta/SublimeSetSyntax/tree/st2",
-          "sublime_text": "<3000"
-        },
         {
           "details": "https://github.com/colinta/SublimeSetSyntax/tags",
           "sublime_text": ">=3000"
@@ -238,10 +194,6 @@
       "labels": ["text manipulation"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeDuplicateSelections/tree/st2",
-          "sublime_text": "<3000"
-        },
-        {
           "details": "https://github.com/colinta/SublimeDuplicateSelections/tags",
           "sublime_text": ">=3000"
         }
@@ -255,10 +207,6 @@
       "labels": ["automation"],
       "releases": [
         {
-          "details": "https://github.com/colinta/SublimeScreencastDirector/tree/st2",
-          "sublime_text": "<3000"
-        },
-        {
           "details": "https://github.com/colinta/SublimeScreencastDirector/tags",
           "sublime_text": ">=3000"
         }
@@ -271,10 +219,6 @@
       "details": "https://github.com/colinta/SublimeTextFormatting",
       "labels": ["formatting", "text manipulation"],
       "releases": [
-        {
-          "details": "https://github.com/colinta/SublimeTextFormatting/tree/st2",
-          "sublime_text": "<3000"
-        },
         {
           "details": "https://github.com/colinta/SublimeTextFormatting/tags",
           "sublime_text": ">=3000"
@@ -325,11 +269,11 @@
       "description": "Stores and opens named file groups",
       "author": "Colin T.A. Gray (colinta)",
       "details": "https://github.com/colinta/SublimeGroupy",
-      "labels": ["autocomplete", "rubymotion"],
+      "labels": ["bookmarks"],
       "releases": [
         {
           "details": "https://github.com/colinta/SublimeGroupy/tags",
-          "sublime_text": "*"
+          "sublime_text": ">=3000"
         }
       ]
     },
@@ -340,10 +284,6 @@
       "details": "https://github.com/colinta/Swift-for-f-ing-sublime",
       "labels": ["language syntax"],
       "releases": [
-        {
-          "details": "https://github.com/colinta/Swift-for-f-ing-sublime/tree/st2",
-          "sublime_text": "<3084"
-        },
         {
           "details": "https://github.com/colinta/Swift-for-f-ing-sublime/tags",
           "sublime_text": ">=3084"
