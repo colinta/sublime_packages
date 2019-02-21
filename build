@@ -5,7 +5,7 @@ files=(zenburn MoveText TransposeCharacter Bracketeer Quickfind
        SimpleMovements StringEncode FileDiffs MarkAndMove ChangeQuotes
        ClipboardManager ApacheConf.tmLanguage Calculate SetSyntax
        DuplicateSelections ScreencastDirector TextFormatting TextDebugging
-       Groupy "Swift-for-f-ing-sublime" AlternativeAutocompletion)
+       Groupy Decent-Swift-Syntax AlternativeAutocompletion)
 
 for folder in ${files[@]}
 do
