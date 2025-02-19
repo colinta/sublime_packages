@@ -1,4 +1,4 @@
-#!/usr/local/bin/bash
+#!/usr/bin/env bash
 
 if [[ "$0" != "./test" ]]; then
   echo -e "\033[32mRight:\033[0m ./test"

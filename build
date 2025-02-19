@@ -1,12 +1,44 @@
-#!/usr/local/bin/bash
+#!/usr/bin/env bash
 
-root="$HOME/Library/Application Support/Sublime Text 3/Packages"
-files=(zenburn MoveText TransposeCharacter Bracketeer Quickfind
-       SimpleMovements StringEncode FileDiffs MarkAndMove ChangeQuotes
-       ClipboardManager ApacheConf.tmLanguage Calculate SetSyntax
-       DuplicateSelections ScreencastDirector TextFormatting TextDebugging
-       Groupy Decent-Swift-Syntax AlternativeAutocompletion)
+root="$HOME/Library/Application Support/Sublime Text/Packages"
 
+if [[ "$0" != "./build" ]]; then
+  echo -e "\033[32mRight:\033[0m ./build"
+  echo -e "\033[31mWrong:\033[0m . build"
+  return 1
+fi
+
+if [[ ! -d $root ]]; then
+  echo "Does not exist: '$root'" 1>&2
+  exit 1
+fi
+
+files=(
+  AlternativeAutocompletion
+  ApacheConf.tmLanguage
+  Bracketeer
+  Calculate
+  ChangeQuotes
+  ClipboardManager
+  Decent-Swift-Syntax
+  DuplicateSelections
+  ExcludeFromProject
+  FileDiffs
+  Groupy
+  MarkAndMove
+  MoveText
+  Quickfind
+  ScreencastDirector
+  SetSyntax
+  SimpleMovements
+  StringEncode
+  TextDebugging
+  TextFormatting
+  TransposeCharacter
+  zenburn
+)
+
+out=''
 for folder in ${files[@]}
 do
   if [[ -z "$out" ]]; then
@@ -20,6 +52,15 @@ PACKAGEJSON
     out="$out,"
   fi
 
+  package_json="$root/$folder/package.json"
+  if [[ ! -f "$package_json" ]]; then
+    echo "Cannot find '$package_json'"
+    exit 1
+  fi
+
+  package_contents=$(sed 's/^/    /' < "$package_json")
+  name=$(json "$package_json" 'name')
+
   pushd "$root/$folder" > /dev/null
 
   latest_tag=$(git tag | sortver | tail -n 1)
@@ -31,19 +72,14 @@ PACKAGEJSON
 
   tag_date=$(git log --pretty=format:'%ci' -n 1 "$latest_tag")
   tag_date=${tag_date:0:19}
-
-  package_json="$root/$folder/package.json"
-  package=$(sed 's/^/    /' < "$package_json")
-
-  name=$(json "$package_json" 'name')
+  popd > /dev/null
 
   echo ">>> $name ($latest_version)" 1>&2
   out=$(cat <<PACKAGEJSON
 $out
-$package
+$package_contents
 PACKAGEJSON
 )
-  popd > /dev/null
 done
 
 out=$(cat <<PACKAGEJSON
@@ -54,6 +90,9 @@ PACKAGEJSON
 )
 
 if [[ -t 1 ]]; then
+  if [[ -f packages.json ]]; then
+    rm packages.json
+  fi
   echo "$out" > packages.json
 else
   echo "$out"
