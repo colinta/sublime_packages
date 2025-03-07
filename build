@@ -23,6 +23,7 @@ files=(
   Decent-Swift-Syntax
   DuplicateSelections
   ExcludeFromProject
+  Extra-Syntax
   FileDiffs
   Groupy
   MarkAndMove
