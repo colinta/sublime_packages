@@ -45,7 +45,8 @@ do
   if [[ -z "$out" ]]; then
     out=$(cat <<PACKAGEJSON
 {
-  "schema_version": "2.0",
+  "\$schema": "sublime://packagecontrol.io/schemas/repository",
+  "schema_version": "3.0.0",
   "packages": [
 PACKAGEJSON
 )
