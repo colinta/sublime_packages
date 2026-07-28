@@ -258,7 +258,8 @@
       "description": "Some generic keyboard bindings for 'Set Syntax:'",
       "author": "Colin T.A. Gray (colinta)",
       "labels": [
-        "language syntax"
+        "syntax",
+        "utilities"
       ],
       "releases": [
         {
